@@ -60,41 +60,36 @@ impl Crawler {
   }
 
   pub fn crawl(&mut self, url: &str) {
-    let c = Arc::new(Mutex::new(self.clone()));
-
-    for i in 0..8 {
-      let c = c.clone();
-      let url = String::from(url);
-
-      println!("Spawning Thread {}", i);
-
-      let _ = thread::spawn(move || {
-        let mut c = c.lock().unwrap();
-
-        // Perform URL check before proceeding
-        if let Err(reason) = c.parse_url(url.clone()) {
-          println!("Ignored {} because {}", url, reason);
-          return
-        }
-
-        println!("Crawling: {}", url);
-
-        // Fetch the resource via HTTP GET
-        match c.client.get(&url).send() {
-          Ok(res) => {
-            if res.status().is_success() {
-              println!("Retrieved {}. Parsing...", url);
-
-              c.parse(&url, res);
-            }
-          },
-          Err(err) => {
-            println!("Network Error: {}", err);
-            c.failed_urls.push(url.to_string());
-          }
-        }
-      }).join();
+    // Perform the URL sanity check before proceeding
+    if let Err(reason) = self.parse_url(url.to_string()) {
+      println!("Ignored {} because {}", url, reason);
+      return
     }
+
+    let c = Arc::new(Mutex::new(self.clone()));
+    let url = String::from(url);
+
+    // Spawn a new thread to handle
+    let _ = thread::spawn(move || {
+      let mut c = c.lock().unwrap();
+
+      println!("Spawning a Thread to handle {}", url);
+
+      // Fetch the resource via HTTP GET
+      match c.client.get(&url).send() {
+        Ok(res) => {
+          if res.status().is_success() {
+            println!("Retrieved {}. Parsing...", url);
+
+            c.parse(&url, res);
+          }
+        },
+        Err(err) => {
+          println!("Network Error: {}", err);
+          c.failed_urls.push(url.to_string());
+        }
+      }
+    }).join();
   }
 
   // TODO: Check the Content-Type Header Before Parsing!
