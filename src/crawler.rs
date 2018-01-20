@@ -130,7 +130,7 @@ impl Crawler {
 
         self.crawl(&url);
       } else {
-        info!("<a> does not contain href");
+        warn!("<a> does not contain href. Skipping...");
       }
     }
   }
