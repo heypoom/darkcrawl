@@ -1,15 +1,40 @@
 extern crate select;
 extern crate reqwest;
 extern crate scraper;
+#[macro_use] extern crate error_chain;
 
 use std::thread;
 use std::sync::mpsc;
 use reqwest::{Client, Proxy};
 use scraper::{Html, Selector};
 
+mod errors {
+  error_chain! {
+    errors {
+      AlreadyCrawled(url: String, is_success: bool) {
+        description("URL is already crawled")
+        display("URL '{}' is already crawled. Success: {}", url, is_success)
+      }
+
+      RelativeURL(url: String) {
+        description("Relative URL is unimplemented")
+        display("Relative URL is unimplemented. URL: {}", url)
+      }
+
+      NonHTTP(url: String) {
+        description("Non HTTP Protocol is unimplemented")
+        display("Relative URL is unimplemented. URL: {}", url)
+      }
+    }
+  }
+}
+
+use errors::ErrorKind::*;
+
 struct Crawler {
   client: Client,
-  crawled: Vec<String>
+  success_urls: Vec<String>,
+  failed_urls: Vec<String>
 }
 
 impl Crawler {
@@ -21,32 +46,55 @@ impl Crawler {
       .build()
       .unwrap();
 
-    Crawler { client, crawled: vec![] }
+    Crawler {
+      client,
+      success_urls: vec![],
+      failed_urls: vec![]
+    }
+  }
+
+  fn parse_url(&self, url: String) -> Result<String, errors::ErrorKind> {
+    if self.success_urls.contains(&url) {
+      return Err(AlreadyCrawled(url, true));
+    }
+
+    if self.failed_urls.contains(&url) {
+      return Err(AlreadyCrawled(url, false));
+    }
+
+    if url.starts_with("..") {
+      return Err(RelativeURL(url));
+    }
+
+    if !url.starts_with("http") {
+      return Err(NonHTTP(url));
+    }
+
+    Ok(url)
   }
 
   fn crawl(&mut self, url: &str) {
-    if self.crawled.contains(&url.to_string()) {
-      println!("I already crawled {}! Ignoring...", url);
-    } else if url.starts_with("..") {
-      println!("Relative URL found: {}. Resolving...", url);
-    } else if !url.starts_with("http") {
-      println!("Non-HTTP URL found: {}. Resolving...", url);
-    } else {
-      println!("Crawling: {}", url);
+    if let Err(err) = self.parse_url(url.to_string()) {
+      println!("{}", err);
+      return
+    };
 
-      self.crawled.push(url.to_string());
-      // println!("Crawled List: {:?}", self.crawled);
+    println!("Crawling: {}", url);
 
-      match self.client.get(url).send() {
-        Ok(ref mut res) => {
-          let body = res.text().unwrap();
+    match self.client.get(url).send() {
+      Ok(ref mut res) => {
+        let body = res.text().unwrap();
 
-          if res.status().is_success() {
-            println!("Successfully Crawled {}. Parsing Document...", url);
-            self.parse(&body)
-          }
-        },
-        Err(err) => println!("Network Error: {}", err)
+        self.success_urls.push(url.to_string());
+
+        if res.status().is_success() {
+          println!("Successfully Crawled {}. Parsing Document...", url);
+          self.parse(&body)
+        }
+      },
+      Err(err) => {
+        println!("Network Error: {}", err);
+        self.failed_urls.push(url.to_string());
       }
     }
   }

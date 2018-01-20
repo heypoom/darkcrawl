@@ -7,4 +7,5 @@ authors = ["Phoomparin Mano <work@phoom.in.th>"]
 select = "*"
 reqwest = "*"
 scraper = "*"
+error-chain = "*"
 
