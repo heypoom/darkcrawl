@@ -1,5 +1,5 @@
 use std::thread;
-use std::sync::mpsc;
+use std::sync::{Arc, Mutex, mpsc};
 
 use reqwest::{Client, Proxy, Response};
 use reqwest::header::ContentType;
@@ -7,6 +7,7 @@ use scraper::{Html, Selector};
 
 use super::*;
 
+#[derive(Clone)]
 pub struct Crawler {
   client: Client,
   success_urls: Vec<String>,
@@ -30,15 +31,18 @@ impl Crawler {
   }
 
   fn parse_url(&self, url: String) -> Result<String, errors::ErrorKind> {
+    let successes = self.success_urls.clone();
+    let fails = self.failed_urls.clone();
+
     if !url.contains(".onion") {
       return Err(IsClearnet);
     }
 
-    if self.success_urls.contains(&url) {
+    if successes.contains(&url) {
       return Err(AlreadyCrawled);
     }
 
-    if self.failed_urls.contains(&url) {
+    if fails.contains(&url) {
       return Err(PreviouslyFailed);
     }
 
@@ -56,27 +60,40 @@ impl Crawler {
   }
 
   pub fn crawl(&mut self, url: &str) {
-    // Perform URL check before proceeding
-    if let Err(reason) = self.parse_url(url.to_string()) {
-      println!("Ignored {} because {}", url, reason);
-      return
-    }
+    let c = Arc::new(Mutex::new(self.clone()));
 
-    println!("Crawling: {}", url);
+    for i in 0..8 {
+      let c = c.clone();
+      let url = String::from(url);
 
-    // Fetch the resource via HTTP GET
-    match self.client.get(url).send() {
-      Ok(res) => {
-        if res.status().is_success() {
-          println!("Retrieved {}. Parsing...", url);
+      println!("Spawning Thread {}", i);
 
-          self.parse(url, res);
+      let _ = thread::spawn(move || {
+        let mut c = c.lock().unwrap();
+
+        // Perform URL check before proceeding
+        if let Err(reason) = c.parse_url(url.clone()) {
+          println!("Ignored {} because {}", url, reason);
+          return
         }
-      },
-      Err(err) => {
-        println!("Network Error: {}", err);
-        self.failed_urls.push(url.to_string());
-      }
+
+        println!("Crawling: {}", url);
+
+        // Fetch the resource via HTTP GET
+        match c.client.get(&url).send() {
+          Ok(res) => {
+            if res.status().is_success() {
+              println!("Retrieved {}. Parsing...", url);
+
+              c.parse(&url, res);
+            }
+          },
+          Err(err) => {
+            println!("Network Error: {}", err);
+            c.failed_urls.push(url.to_string());
+          }
+        }
+      }).join();
     }
   }
 
