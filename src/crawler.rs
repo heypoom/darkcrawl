@@ -9,7 +9,7 @@ use colored::*;
 pub struct SiteList {
   pub success_urls: Vec<String>,
   pub failed_urls: Vec<String>,
-  pub ignored_urls: Vec<String>
+  pub ignored: u32
 }
 
 impl SiteList {
@@ -17,7 +17,7 @@ impl SiteList {
     SiteList {
       success_urls: vec![],
       failed_urls: vec![],
-      ignored_urls: vec![]
+      ignored: 0
     }
   }
 
@@ -31,7 +31,7 @@ impl SiteList {
   }
 
   fn ignore(&mut self, url: &str) {
-    self.ignored_urls.push(url.to_string());
+    self.ignored += 1;
   }
 }
 
@@ -134,7 +134,7 @@ impl Crawler {
 
     let oks = list.success_urls.len().to_string().bold();
     let fails = list.failed_urls.len().to_string().bold();
-    let ignores = list.ignored_urls.len().to_string().bold();
+    let ignores = list.ignored.to_string().bold();
 
     let ok_text = format!("{} SUCCESSES", oks).green();
     let fail_text = format!("{} FAILURES", fails).red();
