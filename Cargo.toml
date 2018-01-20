@@ -1,0 +1,10 @@
+[package]
+name = "deep-crawl"
+version = "0.1.0"
+authors = ["Phoomparin Mano <work@phoom.in.th>"]
+
+[dependencies]
+select = "*"
+reqwest = "*"
+scraper = "*"
+
