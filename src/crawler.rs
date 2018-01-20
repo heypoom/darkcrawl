@@ -1,7 +1,7 @@
 use std::thread;
 use std::sync::mpsc;
 
-use reqwest::{Client, Proxy};
+use reqwest::{Client, Proxy, Response};
 use reqwest::header::ContentType;
 use scraper::{Html, Selector};
 
@@ -64,27 +64,12 @@ impl Crawler {
     println!("Crawling: {}", url);
 
     match self.client.get(url).send() {
-      Ok(mut res) => {
-        let h = res.headers().clone();
+      Ok(res) => {
+        if res.status().is_success() {
+          println!("Retrieved {}. Parsing...", url);
 
-        // TODO: Handle Based on Content Types
-        //if let Some(t) = h.get::<ContentType>() {
-          //println!("Content Type appears to be good.");
-        //}
-
-        match res.text() {
-          Ok(body) => {
-            if res.status().is_success() {
-              self.success_urls.push(url.to_string());
-
-              println!("Successfully Crawled {}. Parsing Document...", url);
-              self.parse(&body)
-            }
-          },
-          Err(err) => {
-            println!("Failed to parse document: {}", err);
-          }
-        };
+          self.parse(url, res);
+        }
       },
       Err(err) => {
         println!("Network Error: {}", err);
@@ -93,7 +78,20 @@ impl Crawler {
     }
   }
 
-  fn parse(&mut self, body: &str) {
+  // TODO: Check the Content-Type Header Before Parsing!
+  fn parse(&mut self, url: &str, mut res: Response) {
+    match res.text() {
+      Ok(body) => {
+        // Append the URL to the success list
+        self.success_urls.push(url.to_string());
+
+        self.parse_html(&body)
+      },
+      Err(err) => println!("{} is not a text file. Ignoring...", url)
+    }
+  }
+
+  fn parse_html(&mut self, body: &str) {
     let document = Html::parse_document(&body);
     let links = Selector::parse("a").unwrap();
 
