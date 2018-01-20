@@ -715,3 +715,861 @@
 (17:42:42) [[33mWARN[0m] Ignored [34mhttps://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/[0m because [33mClearnet URLs are ignored[0m
 (17:42:42) [[34mINFO[0m] Link Found in <a>: http://3dboysn3o5d7dk3i.onion/ (["3D Boys"])
 (17:42:42) [[34mINFO[0m] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/
+(17:44:13) [[34mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:44:16) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:44:16) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:17) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.torproject.org/projects/torbrowser.html.en[0m (["Tor Browser 7.5a10"])
+(17:44:17) [[33mWARN[0m] Ignored https://www.torproject.org/projects/torbrowser.html.en because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34marchive.html[0m (["archive"])
+(17:44:17) [[33mWARN[0m] Ignored archive.html because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://tails.boum.org/news/version_3.4/index.en.html[0m (["Tails 3.4", " is out "])
+(17:44:17) [[33mWARN[0m] Ignored https://tails.boum.org/news/version_3.4/index.en.html because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://tails.boum.org/[0m (["Download"])
+(17:44:17) [[33mWARN[0m] Ignored https://tails.boum.org/ because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m (["Tor 0.3.2.9 (source)", " is released"])
+(17:44:17) [[33mWARN[0m] Ignored https://blog.torproject.org/tor-0329-released-we-have-new-stable-series because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.torproject.org/download/download.html.en[0m (["Download"])
+(17:44:17) [[33mWARN[0m] Ignored https://www.torproject.org/download/download.html.en because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m (["phpBB 3.2.2", " released!"])
+(17:44:17) [[33mWARN[0m] Ignored https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/downloads/[0m (["Download"])
+(17:44:17) [[33mWARN[0m] Ignored https://www.phpbb.com/downloads/ because [33mClearnet URLs are ignored[0m
+(17:44:17) [[34mINFO[0m] Link Found in <a>: [34mhttp://4fvfamdpoulu2nms.onion/lechat/[0m (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:44:17) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:44:19) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/. Parsing...
+(17:44:19) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen1.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen1.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen2.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen2.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen3.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen3.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen4.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen4.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen5.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen5.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen6.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen6.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen7.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen7.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen8.png[0m ([])
+(17:44:19) [[33mWARN[0m] Ignored ./LC2.0-screen8.png because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m../feedback/[0m (["please share!"])
+(17:44:19) [[33mWARN[0m] Ignored ../feedback/ because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./lechat-2.0.zip[0m (["lechat-2.0.zip"])
+(17:44:19) [[33mWARN[0m] Ignored ./lechat-2.0.zip because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./italian-2.0.txt[0m (["Italian"])
+(17:44:19) [[33mWARN[0m] Ignored ./italian-2.0.txt because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m../feedback/[0m (["please send me a copy for here"])
+(17:44:19) [[33mWARN[0m] Ignored ../feedback/ because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34minstallation.html[0m (["Installation Guide"])
+(17:44:19) [[33mWARN[0m] Ignored installation.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://notepad-plus-plus.org/[0m (["Notepad++"])
+(17:44:19) [[33mWARN[0m] Ignored http://notepad-plus-plus.org/ because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./settings.html[0m (["helpful settings and content filters"])
+(17:44:19) [[33mWARN[0m] Ignored ./settings.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m../feedback/[0m (["Please let me know!"])
+(17:44:19) [[33mWARN[0m] Ignored ../feedback/ because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./lechat-1.14_FSU-1.20.html[0m (["modified version from Friendly Script Updater"])
+(17:44:19) [[33mWARN[0m] Ignored ./lechat-1.14_FSU-1.20.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://github.com/DanWin/le-chat-php[0m (["LE Chat-PHP"])
+(17:44:19) [[33mWARN[0m] Ignored https://github.com/DanWin/le-chat-php because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./thoughts.html[0m (["random thoughts"])
+(17:44:19) [[33mWARN[0m] Ignored ./thoughts.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./lechat-1.14.zip[0m (["lechat-1.14.zip"])
+(17:44:19) [[33mWARN[0m] Ignored ./lechat-1.14.zip because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./german-1.14.txt[0m (["German"])
+(17:44:19) [[33mWARN[0m] Ignored ./german-1.14.txt because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./spanish-1.14.txt[0m (["Spanish"])
+(17:44:19) [[33mWARN[0m] Ignored ./spanish-1.14.txt because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./italian-1.14.txt[0m (["Italian"])
+(17:44:19) [[33mWARN[0m] Ignored ./italian-1.14.txt because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m./lechat-1.13.zip[0m (["lechat-1.13.zip"])
+(17:44:19) [[33mWARN[0m] Ignored ./lechat-1.13.zip because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34m/[0m (["Home"])
+(17:44:19) [[33mWARN[0m] Ignored / because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip[0m (["Download"])
+(17:44:19) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip
+(17:44:19) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip. Parsing...
+(17:44:19) [[34mINFO[0m] http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip is not a text file. (stream did not contain valid UTF-8)
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34moa/v3update.txt[0m (["New Official v3 Addresses! (Important!)"])
+(17:44:19) [[33mWARN[0m] Ignored oa/v3update.txt because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.bbc.com/news/blogs-trending-42559977[0m (["!", " YouTube Comment Caused a Search Warrant and Arrest"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.bbc.com/news/blogs-trending-42559977 because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html[0m (["!", " Pope Francis Accuses Sex Abuse Victims of Slander"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html[0m (["!", " Farmer Caught a Pedophile in Action While `Looking After his Patch´"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.bbc.com/news/world-europe-42694218[0m (["Denmark Facebook Sex Video: More Than 1,000 Young People Charged"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.bbc.com/news/world-europe-42694218 because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php[0m (["Feds Investigate Child Porn and Arrest Two of Their Own"])
+(17:44:19) [[33mWARN[0m] Ignored https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html[0m (["Pope Meets With Abuse Survivors, Weeps With Them in Chile"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html[0m (["Welcome to \'Pedophile Island\': Isolated Prison off the Coast of Washington"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/[0m (["Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far"])
+(17:44:19) [[33mWARN[0m] Ignored https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html[0m (["Football Coach Sentenced to Death for Kidnap, Rape and Murder"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html[0m (["German Police Arrests 8 Members of Suspected Pedo Gang"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html[0m (["YouTube Star, Shane Dawson, Justifies Pedophilia"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html[0m (["Protests Across Pakistan After 7yo Girl\'s Rape and Murder"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html[0m (["CP Producer Caught by His Ring While Raping a 2yo"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html[0m (["Disabled Sex Offender, 49, is SPARED Jail by Judge"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html[0m (["Indonesia Investigates Foreigners in Child Porn Ring"])
+(17:44:19) [[33mWARN[0m] Ignored https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html[0m (["Mom Sells Son to Abuse (German)"])
+(17:44:19) [[33mWARN[0m] Ignored https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html[0m (["\'Russia\'s worst paedophile in history\' Caught"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html[0m (["Alexandra Coach, 63, Accused of Abusing Boys"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html[0m (["Dad Reports his Son For Having a Naked Toddler on the Phone"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html[0m (["Man killed mom and kidnapped her two daughters"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html[0m (["Council worker, 56, confronted by pedo hunter on his doorstep"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html[0m (["Male 51 jailed for nine years for sexually abusing a 13yo boy"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html[0m (["Man Wearing Batman Pyjamas Confronted by Vigilantes"])
+(17:44:19) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/[0m (["Man Sentenced For Having Downloaded a ‘Pedophile Manual’"])
+(17:44:19) [[33mWARN[0m] Ignored https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ because [33mClearnet URLs are ignored[0m
+(17:44:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://3dboysn3o5d7dk3i.onion/[0m (["3D Boys"])
+(17:44:19) [[34mINFO[0m] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/
+(17:44:24) [[34mINFO[0m] Retrieved http://3dboysn3o5d7dk3i.onion/. Parsing...
+(17:44:24) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:24) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:24) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:24) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:24) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:24) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:24) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m ([])
+(17:44:24) [[33mWARN[0m] Ignored ./index.php?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m#start_here[0m (["Skip to content"])
+(17:44:24) [[33mWARN[0m] Ignored #start_here because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] <a> does not contain href
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m#[0m (["\n\t\t\t\t", "Quick links", "\n\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored # because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=team&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t\t\t\t\t\t\t", "The team", "\n\t\t\t\t\t\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored ./memberlist.php?mode=team&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m/app.php/notes?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t", "Notes", "\n\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored /app.php/notes?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m/app.php/help/faq?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t\t", "FAQ", "\n\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored /app.php/help/faq?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m/app.php/contactadmin?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t", "Contact us", "\n\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored /app.php/contactadmin?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=login&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t\t", "Login", "\n\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored ./ucp.php?mode=login&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=register&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t\t\t", "Register", "\n\t\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored ./ucp.php?mode=register&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Board index"])
+(17:44:24) [[33mWARN[0m] Ignored ./index.php?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] <a> does not contain href
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=3&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Disclaimer, FAQ & Rules"])
+(17:44:24) [[33mWARN[0m] Ignored ./viewforum.php?f=3&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=3&p=237840&sid=2f3ab4f23d7f89110649600fa8ce2d79#p237840[0m (["Username & Password Recovery"])
+(17:44:24) [[33mWARN[0m] Ignored ./viewtopic.php?f=3&p=237840&sid=2f3ab4f23d7f89110649600fa8ce2d79#p237840 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=2&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Ayas"])
+(17:44:24) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=2&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=3&p=237840&sid=2f3ab4f23d7f89110649600fa8ce2d79#p237840[0m (["\n\t\t\t\t\t\t\t\t\t\t", "View the latest post", "\n\t\t\t\t\t\t\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored ./viewtopic.php?f=3&p=237840&sid=2f3ab4f23d7f89110649600fa8ce2d79#p237840 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=170&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Sample Gallery"])
+(17:44:24) [[33mWARN[0m] Ignored ./viewforum.php?f=170&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=170&p=258184&sid=2f3ab4f23d7f89110649600fa8ce2d79#p258184[0m (["ChronArch\'s Samples"])
+(17:44:24) [[33mWARN[0m] Ignored ./viewtopic.php?f=170&p=258184&sid=2f3ab4f23d7f89110649600fa8ce2d79#p258184 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=12820&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["ChronArch"])
+(17:44:24) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=12820&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=170&p=258184&sid=2f3ab4f23d7f89110649600fa8ce2d79#p258184[0m (["\n\t\t\t\t\t\t\t\t\t\t", "View the latest post", "\n\t\t\t\t\t\t\t\t\t"])
+(17:44:24) [[33mWARN[0m] Ignored ./viewtopic.php?f=170&p=258184&sid=2f3ab4f23d7f89110649600fa8ce2d79#p258184 because [33mClearnet URLs are ignored[0m
+(17:44:24) [[34mINFO[0m] Link Found in <a>: [34mhttp://dembtxt2izv4tnpb.onion/[0m ([])
+(17:44:24) [[34mINFO[0m] Spawning a Thread to handle http://dembtxt2izv4tnpb.onion/
+(17:44:32) [[34mINFO[0m] Retrieved http://dembtxt2izv4tnpb.onion/. Parsing...
+(17:44:32) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:44:32) [[34mINFO[0m] <a> does not contain href
+(17:44:32) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.asstr.org/%7Epza[0m (["PZA Boy stories"])
+(17:44:32) [[33mWARN[0m] Ignored http://www.asstr.org/%7Epza because [33mClearnet URLs are ignored[0m
+(17:44:32) [[34mINFO[0m] Link Found in <a>: [34mhttp://3dboysn3o5d7dk3i.onion/viewforum.php?f=201[0m (["The DEMB Feedback Forum"])
+(17:44:32) [[34mINFO[0m] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/viewforum.php?f=201
+(17:44:47) [[34mINFO[0m] Retrieved http://3dboysn3o5d7dk3i.onion/viewforum.php?f=201. Parsing...
+(17:44:47) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:47) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:47) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:47) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:47) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:47) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:44:47) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=7a40123edfe64b61660cf76da288fa98[0m ([])
+(17:44:47) [[33mWARN[0m] Ignored ./index.php?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m#start_here[0m (["Skip to content"])
+(17:44:47) [[33mWARN[0m] Ignored #start_here because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] <a> does not contain href
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m#[0m (["\n\t\t\t\t", "Quick links", "\n\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored # because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=team&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t\t\t\t\t\t", "The team", "\n\t\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=team&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m/app.php/notes?sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t", "Notes", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored /app.php/notes?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m/app.php/help/faq?sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t", "FAQ", "\n\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored /app.php/help/faq?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m/app.php/contactadmin?sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t", "Contact us", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored /app.php/contactadmin?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=login&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t", "Login", "\n\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./ucp.php?mode=login&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=register&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t\t", "Register", "\n\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./ucp.php?mode=register&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=7a40123edfe64b61660cf76da288fa98[0m (["Board index"])
+(17:44:47) [[33mWARN[0m] Ignored ./index.php?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=201&sid=7a40123edfe64b61660cf76da288fa98[0m (["DEMB Feedback & Infos"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewforum.php?f=201&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] <a> does not contain href
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=201&sid=7a40123edfe64b61660cf76da288fa98[0m (["DEMB Feedback & Infos"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewforum.php?f=201&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./posting.php?mode=post&f=201&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t\t\t\t", "New Topic", " ", "\n\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./posting.php?mode=post&f=201&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98[0m (["The DEMB feedback forum"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&p=260109&sid=7a40123edfe64b61660cf76da288fa98#p260109[0m (["Wed Jan 03, 2018 19:37"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&p=260109&sid=7a40123edfe64b61660cf76da288fa98#p260109 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=2&sid=7a40123edfe64b61660cf76da288fa98[0m (["Ayas"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=2&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98[0m (["1"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=50[0m (["6"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=50 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=60[0m (["7"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=60 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=70[0m (["8"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=70 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=80[0m (["9"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=80 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=90[0m (["10"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&sid=7a40123edfe64b61660cf76da288fa98&start=90 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=14457&p=260109&sid=7a40123edfe64b61660cf76da288fa98#p260109[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=14457&p=260109&sid=7a40123edfe64b61660cf76da288fa98#p260109 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21312&sid=7a40123edfe64b61660cf76da288fa98[0m (["Anna S. Fiction where to find more?"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21312&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=41466&sid=7a40123edfe64b61660cf76da288fa98[0m (["go_for_it"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=41466&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21312&p=249500&sid=7a40123edfe64b61660cf76da288fa98#p249500[0m (["Thu Nov 02, 2017 20:19"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21312&p=249500&sid=7a40123edfe64b61660cf76da288fa98#p249500 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=23455&sid=7a40123edfe64b61660cf76da288fa98[0m (["millian"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=23455&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=41466&sid=7a40123edfe64b61660cf76da288fa98[0m (["go_for_it"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=41466&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21312&p=249500&sid=7a40123edfe64b61660cf76da288fa98#p249500[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21312&p=249500&sid=7a40123edfe64b61660cf76da288fa98#p249500 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21633&sid=7a40123edfe64b61660cf76da288fa98[0m (["Cartoon style stories?"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21633&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=58&sid=7a40123edfe64b61660cf76da288fa98[0m (["nathan"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=58&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21633&p=249421&sid=7a40123edfe64b61660cf76da288fa98#p249421[0m (["Thu Nov 02, 2017 16:18"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21633&p=249421&sid=7a40123edfe64b61660cf76da288fa98#p249421 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=28368&sid=7a40123edfe64b61660cf76da288fa98[0m (["iPerv"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=28368&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=58&sid=7a40123edfe64b61660cf76da288fa98[0m (["nathan"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=58&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21633&p=249421&sid=7a40123edfe64b61660cf76da288fa98#p249421[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21633&p=249421&sid=7a40123edfe64b61660cf76da288fa98#p249421 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21232&sid=7a40123edfe64b61660cf76da288fa98[0m (["PZA Stories?"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21232&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=99&sid=7a40123edfe64b61660cf76da288fa98[0m (["diabloa5"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=99&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21232&p=243074&sid=7a40123edfe64b61660cf76da288fa98#p243074[0m (["Wed Sep 27, 2017 23:05"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21232&p=243074&sid=7a40123edfe64b61660cf76da288fa98#p243074 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=99&sid=7a40123edfe64b61660cf76da288fa98[0m (["diabloa5"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=99&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21232&p=243074&sid=7a40123edfe64b61660cf76da288fa98#p243074[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21232&p=243074&sid=7a40123edfe64b61660cf76da288fa98#p243074 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21300&sid=7a40123edfe64b61660cf76da288fa98[0m (["Is there gonna be an update soon?"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21300&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=7522&sid=7a40123edfe64b61660cf76da288fa98[0m (["Smallisfunner"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=7522&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21300&p=241957&sid=7a40123edfe64b61660cf76da288fa98#p241957[0m (["Wed Sep 20, 2017 23:03"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21300&p=241957&sid=7a40123edfe64b61660cf76da288fa98#p241957 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=7522&sid=7a40123edfe64b61660cf76da288fa98[0m (["Smallisfunner"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=7522&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=7522&sid=7a40123edfe64b61660cf76da288fa98[0m (["Smallisfunner"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=7522&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21300&p=241957&sid=7a40123edfe64b61660cf76da288fa98#p241957[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21300&p=241957&sid=7a40123edfe64b61660cf76da288fa98#p241957 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21231&sid=7a40123edfe64b61660cf76da288fa98[0m (["Where the Moss Slowly Grows"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21231&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21231&p=241136&sid=7a40123edfe64b61660cf76da288fa98#p241136[0m (["Sat Sep 16, 2017 21:53"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21231&p=241136&sid=7a40123edfe64b61660cf76da288fa98#p241136 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=21231&p=241136&sid=7a40123edfe64b61660cf76da288fa98#p241136[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=21231&p=241136&sid=7a40123edfe64b61660cf76da288fa98#p241136 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=16272&sid=7a40123edfe64b61660cf76da288fa98[0m (["Kudos to you!"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=16272&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=30367&sid=7a40123edfe64b61660cf76da288fa98[0m (["NeroAlef"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=30367&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=16272&p=193365&sid=7a40123edfe64b61660cf76da288fa98#p193365[0m (["Sun Oct 30, 2016 20:11"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=16272&p=193365&sid=7a40123edfe64b61660cf76da288fa98#p193365 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=30367&sid=7a40123edfe64b61660cf76da288fa98[0m (["NeroAlef"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=30367&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=16272&p=193365&sid=7a40123edfe64b61660cf76da288fa98#p193365[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=16272&p=193365&sid=7a40123edfe64b61660cf76da288fa98#p193365 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=15371&sid=7a40123edfe64b61660cf76da288fa98[0m (["Story titled Away Game?"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=15371&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=4043&sid=7a40123edfe64b61660cf76da288fa98[0m (["Dembster56"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=4043&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=15371&p=169106&sid=7a40123edfe64b61660cf76da288fa98#p169106[0m (["Mon Apr 04, 2016 10:46"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=15371&p=169106&sid=7a40123edfe64b61660cf76da288fa98#p169106 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=4043&sid=7a40123edfe64b61660cf76da288fa98[0m (["Dembster56"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=4043&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewtopic.php?f=201&t=15371&p=169106&sid=7a40123edfe64b61660cf76da288fa98#p169106[0m (["\n\t\t\t\t\t\t\t\t", "\n\t\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewtopic.php?f=201&t=15371&p=169106&sid=7a40123edfe64b61660cf76da288fa98#p169106 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./posting.php?mode=post&f=201&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t\t\t\t", "New Topic", " ", "\n\t\t\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./posting.php?mode=post&f=201&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t", "Return to Board Index", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./index.php?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=3&sid=7a40123edfe64b61660cf76da288fa98[0m ([" ", " Disclaimer, FAQ & Rules"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewforum.php?f=3&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=170&sid=7a40123edfe64b61660cf76da288fa98[0m ([" ", " Sample Gallery"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewforum.php?f=170&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./viewforum.php?f=201&sid=7a40123edfe64b61660cf76da288fa98[0m ([" ", "↳ \u{a0} DEMB Feedback & Infos"])
+(17:44:47) [[33mWARN[0m] Ignored ./viewforum.php?f=201&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=7a40123edfe64b61660cf76da288fa98[0m (["Board index"])
+(17:44:47) [[33mWARN[0m] Ignored ./index.php?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=delete_cookies&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t\t", "Delete all board cookies", "\n\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./ucp.php?mode=delete_cookies&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=team&sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t\t\t", "The team", "\n\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=team&sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m/app.php/contactadmin?sid=7a40123edfe64b61660cf76da288fa98[0m (["\n\t\t\t", "Contact us", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored /app.php/contactadmin?sid=7a40123edfe64b61660cf76da288fa98 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/[0m (["phpBB"])
+(17:44:47) [[33mWARN[0m] Ignored https://www.phpbb.com/ because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.bradleyv.com/[0m (["Brad Veryard"])
+(17:44:47) [[33mWARN[0m] Ignored http://www.bradleyv.com/ because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttps://twitter.com/MannixMD[0m (["MannixMD"])
+(17:44:47) [[33mWARN[0m] Ignored https://twitter.com/MannixMD because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m#[0m (["\n\t\t\t", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored # because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m#[0m (["\n\t\t\t", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored # because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] <a> does not contain href
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttp://3dboysn3o5d7dk3i.onion/[0m (["3D Boys Image Board"])
+(17:44:47) [[33mWARN[0m] Ignored http://3dboysn3o5d7dk3i.onion/ because [33mURL is already crawled[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mBoymeasurements.html[0m (["Boy Measurements:"])
+(17:44:47) [[33mWARN[0m] Ignored Boymeasurements.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttp://3dboysn3o5d7dk3i.onion/[0m (["3D Boys Image Board"])
+(17:44:47) [[33mWARN[0m] Ignored http://3dboysn3o5d7dk3i.onion/ because [33mURL is already crawled[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Dantes_Descent_A.html[0m (["Danté\'s Descent", " (Skrimshaw and Conradin)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Dantes_Descent_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Dantes_Descent_B.html[0m (["Act III added"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Dantes_Descent_B.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Dunns_Chronicles_1.html[0m (["Dunn\'s Chronicles", " (Diabloa5 & The Aconite Acolyte; ill. by Conradin)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Dunns_Chronicles_1.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/The_Fremont_Cup_A.html[0m (["The Fremont Cup", " (Istari and Calvinus)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/The_Fremont_Cup_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Ludus_A1.html[0m (["Ludus", " (Calvinus)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Ludus_A1.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Ludus_B1.html[0m (["Chapter 2 added"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Ludus_B1.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Where_the_Moss_Slowly_Grows_A.html[0m (["Where the Moss Slowly Grows", " (The The Aconite Acolyte)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Where_the_Moss_Slowly_Grows_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Young_Black_Master_A.html[0m (["Young Black Master", " (Zelamir and ill. by Hungrid)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Young_Black_Master_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mAnnaS/Abduction.html[0m (["Abduction"])
+(17:44:47) [[33mWARN[0m] Ignored AnnaS/Abduction.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mAnnaS/Adam.html[0m (["Adam"])
+(17:44:47) [[33mWARN[0m] Ignored AnnaS/Adam.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mAnnaS/Good_Manners_for_Good_Little_Boys.html[0m (["Good Manners for Good Little Boys"])
+(17:44:47) [[33mWARN[0m] Ignored AnnaS/Good_Manners_for_Good_Little_Boys.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mAnnaS/Noah.html[0m (["Noah"])
+(17:44:47) [[33mWARN[0m] Ignored AnnaS/Noah.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mAnnaS/Objectification.html[0m (["Objectification"])
+(17:44:47) [[33mWARN[0m] Ignored AnnaS/Objectification.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mAnnaS/Shota.html[0m (["Short Shota Stories"])
+(17:44:47) [[33mWARN[0m] Ignored AnnaS/Shota.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mArdaan/A_Runaway.html[0m (["A Runaway"])
+(17:44:47) [[33mWARN[0m] Ignored Ardaan/A_Runaway.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mArdaan/Ke.html[0m (["Ke"])
+(17:44:47) [[33mWARN[0m] Ignored Ardaan/Ke.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mArdaan/Passion_Play.html[0m (["Passion Play"])
+(17:44:47) [[33mWARN[0m] Ignored Ardaan/Passion_Play.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mArdaan/Spartan_Training.html[0m (["Spartan Training"])
+(17:44:47) [[33mWARN[0m] Ignored Ardaan/Spartan_Training.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mArdaan/Where_is_Spartacus.html[0m (["Where is Spartacus?"])
+(17:44:47) [[33mWARN[0m] Ignored Ardaan/Where_is_Spartacus.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mBlackflag/Alex_sold_and_trained_boy_whore.html[0m (["Alex Sold and Trained Boy Whore"])
+(17:44:47) [[33mWARN[0m] Ignored Blackflag/Alex_sold_and_trained_boy_whore.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mBlackflag/A_Night_in_TJ.html[0m (["A Night in TJ"])
+(17:44:47) [[33mWARN[0m] Ignored Blackflag/A_Night_in_TJ.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mCarnaj/Jimmys_New_Life_on_the_Farm.html[0m (["Jimmy\'s New Life on the Farm"])
+(17:44:47) [[33mWARN[0m] Ignored Carnaj/Jimmys_New_Life_on_the_Farm.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mCarnaj/Three_weeks_away_1.html[0m (["Three Weeks Away"])
+(17:44:47) [[33mWARN[0m] Ignored Carnaj/Three_weeks_away_1.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/A_Boy_On_The_Train.html[0m (["A Boy on the Train"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/A_Boy_On_The_Train.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Asian_School_Bullies.html[0m (["Asian School Bullies"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Asian_School_Bullies.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Harumis_Birthday.html[0m (["Harumi\'s Birthday"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Harumis_Birthday.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Japanese_Students_Test.html[0m (["Japanese Student\'s Test"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Japanese_Students_Test.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Tans_Journey.html[0m (["Tan\'s Journey"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Tans_Journey.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_and_Bobby.html[0m (["Mr. Black and Bobby"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_and_Bobby.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_and_Carlos.html[0m (["Mr. Black and Carlos"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_and_Carlos.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_and_Danny.html[0m (["Mr. Black and Danny"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_and_Danny.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_and_the_FBI_A.html[0m (["Mr. Black and the FBI"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_and_the_FBI_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_and_the_Hospital.html[0m (["Mr. Black and the Hospital"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_and_the_Hospital.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_Cums_To_the_Rescue.html[0m (["Mr. Black Cums to the Rescue"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_Cums_To_the_Rescue.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_Hits_the_Mark.html[0m (["Mr. Black Hits the Mark"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_Hits_the_Mark.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Black_In_Las_Vegas.html[0m (["Mr. Black in Las Vegas"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Black_In_Las_Vegas.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Chinese_Lesson.html[0m (["Mr. Black\'s Chinese Lesson"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Chinese_Lesson.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Gift.html[0m (["Mr. Black\'s Gift"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Gift.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Group_Instruction.html[0m (["Mr. Black\'s Group Instruction"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Group_Instruction.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_New_Years_Bash.html[0m (["Mr. Black\'s New Year\'s Bash"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_New_Years_Bash.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Puppy_Boys.html[0m (["Mr. Black\'s Puppy Boys"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Puppy_Boys.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Return.html[0m (["Mr. Black\'s Return"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Return.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Visit.html[0m (["Mr. Black\'s Visit"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Visit.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Mr_Blacks_Webcam_Gameshow.html[0m (["Mr. Black\'s Webcam Gameshow"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Mr_Blacks_Webcam_Gameshow.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Christmas_Altercation.html[0m (["Christmas Altercation"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Christmas_Altercation.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Dannys_Dilemma.html[0m (["Danny\'s Dilemma"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Dannys_Dilemma.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Dannys_Life.html[0m (["Danny\'s Life"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Dannys_Life.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/A_Dads_Problem.html[0m (["A Dad\'s Problem"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/A_Dads_Problem.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/A_Lovely_Day_With_Peter.html[0m (["A Lovely Day with Peter"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/A_Lovely_Day_With_Peter.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Alan_and_Me.html[0m (["Alan and Me"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Alan_and_Me.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Allcot_Institute.html[0m (["Allcot institute"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Allcot_Institute.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Bobbys_Photo_Shoot.html[0m (["Bobby\'s Photo Shoot"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Bobbys_Photo_Shoot.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Boot_Camp_for_Boys_A.html[0m (["Boot Camp for Boys"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Boot_Camp_for_Boys_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Edinburgh_Home_for_Boys.html[0m (["Edinburgh Home for Boys"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Edinburgh_Home_for_Boys.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Interview_With_a_Piece_of_Shit.html[0m (["Interview With a Piece of Shit"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Interview_With_a_Piece_of_Shit.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Joey_and_the_Coach.html[0m (["Joey and the Coach"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Joey_and_the_Coach.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Lakeland_Lads_A.html[0m (["Lakeland Lads"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Lakeland_Lads_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Lakeland_Annual_Gala.html[0m (["Lakeland Annual Gala"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Lakeland_Annual_Gala.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Self-Discipline.html[0m (["Self-Discipline"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Self-Discipline.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/The_Test.html[0m (["The Test"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/The_Test.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mDale10/Young_Aarons_First_Fucking.html[0m (["Young Aaron\'s First Fucking"])
+(17:44:47) [[33mWARN[0m] Ignored Dale10/Young_Aarons_First_Fucking.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mGillesdeRais/Amazonia.html[0m (["Amazonia"])
+(17:44:47) [[33mWARN[0m] Ignored GillesdeRais/Amazonia.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mGillesdeRais/Letting_Fate_Decide.html[0m (["Letting Fate Decide"])
+(17:44:47) [[33mWARN[0m] Ignored GillesdeRais/Letting_Fate_Decide.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mGillesdeRais/PITCOM_and_Beyond.html[0m (["PITCOM and Beyond…"])
+(17:44:47) [[33mWARN[0m] Ignored GillesdeRais/PITCOM_and_Beyond.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mGillesdeRais/The_Sheikh_and_the_Schoolboy.html[0m (["The Sheikh and the Schoolboy"])
+(17:44:47) [[33mWARN[0m] Ignored GillesdeRais/The_Sheikh_and_the_Schoolboy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/All_the_Fun_of_the_Fair.html[0m (["All the Fun of the Fair"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/All_the_Fun_of_the_Fair.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/An_Orphans_Story.html[0m (["An Orphan\'s Story"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/An_Orphans_Story.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Billy_Wilson.html[0m (["Billy Wilson\'s Adventures"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Billy_Wilson.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Boy_for_Sale.html[0m (["Boy For Sale"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Boy_for_Sale.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Codes_of_the_South.html[0m (["Codes of the South"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Codes_of_the_South.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Cole_Collette.html[0m (["Cole/Collette"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Cole_Collette.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Dear_Diary.html[0m (["Dear Diary"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Dear_Diary.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Dont_Quarrel_Over_the_Gameboy.html[0m (["Don\'t Quarrel Over the Gameboy!"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Dont_Quarrel_Over_the_Gameboy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Finding_the_Real_Thing.html[0m (["Finding the Real Thing"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Finding_the_Real_Thing.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Grandmas_House.html[0m (["Grandma\'s House"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Grandmas_House.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Hostile_Witness.html[0m (["Hostile Witness"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Hostile_Witness.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Keeping_it_in_the_Family.html[0m (["Keeping it in the Family"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Keeping_it_in_the_Family.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Keiths_Menagerie.html[0m (["Keith\'s Menagerie"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Keiths_Menagerie.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Last_Rites.html[0m (["Last Rites"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Last_Rites.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Moscow_Nights.html[0m (["Moscow Nights"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Moscow_Nights.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/My_Personal_Assistant_and_Her_Son.html[0m (["My Personal Assistant and Her Son"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/My_Personal_Assistant_and_Her_Son.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Now_and_Then.html[0m (["Now & Then"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Now_and_Then.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Shock_Video.html[0m (["Shock-Video"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Shock_Video.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Stitched_Up.html[0m (["Stitched Up"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Stitched_Up.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/That_Tingly_Feeling.html[0m (["That Tingly Feeling"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/That_Tingly_Feeling.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Baby_Alarm.html[0m (["The Baby Alarm"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Baby_Alarm.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Brats.html[0m (["The Brats"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Brats.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Boy_from_Vukovar.html[0m (["The Boy from Vukovar"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Boy_from_Vukovar.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Foster_Parents.html[0m (["The Foster Parents"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Foster_Parents.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Half-Brother.html[0m (["The Half-Brother"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Half-Brother.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Island_of_Dr_Moreau.html[0m (["The Island of Dr. Moreau"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Island_of_Dr_Moreau.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Joys_and_Perils_of_Photography.html[0m (["The Joys and Perils of Photography"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Joys_and_Perils_of_Photography.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Law_of_2015.html[0m (["The Law of 2015"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Law_of_2015.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Reluctant_Rent_Boy.html[0m (["The Reluctant Rent Boy"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Reluctant_Rent_Boy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Riviera_Encounter.html[0m (["The Riviera Encounter"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Riviera_Encounter.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Swingers.html[0m (["The Swingers"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Swingers.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/The_Webcast.html[0m (["The Webcast"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/The_Webcast.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mJohnFitz/Therapy.html[0m (["Therapy"])
+(17:44:47) [[33mWARN[0m] Ignored JohnFitz/Therapy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/A_Boyhood_Fantasy.html[0m (["A Boyhood Fantasy"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/A_Boyhood_Fantasy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/A_Boys_Rape.html[0m (["A Boy\'s Rape"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/A_Boys_Rape.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/A_Rude_Awakening.html[0m (["A Rude Awakening"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/A_Rude_Awakening.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Basement_of_Horror.html[0m (["Basement of Horror"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Basement_of_Horror.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Black_Adventure.html[0m (["Black Adventure"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Black_Adventure.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Black_Revenge.html[0m (["Black Revenge"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Black_Revenge.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Brothers.html[0m (["Brothers"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Brothers.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Card_Games_A.html[0m (["Card Games"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Card_Games_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Daddy_Lucas.html[0m (["Daddy Lucas"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Daddy_Lucas.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Father_Takes_Charge.html[0m (["Father Takes Charge"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Father_Takes_Charge.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Imprisoned.html[0m (["Imprisoned"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Imprisoned.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Mans_Best_Friend.html[0m (["Man\'s Best Friend"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Mans_Best_Friend.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/My_Son_Danny.html[0m (["My Son Danny"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/My_Son_Danny.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/The_Boy_Master.html[0m (["The Boy Master"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/The_Boy_Master.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/The_Joining.html[0m (["The Joining"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/The_Joining.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/The_Maze.html[0m (["The Maze"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/The_Maze.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/The_Runaway.html[0m (["The Runaway"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/The_Runaway.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/The_Street_Boy.html[0m (["The Street Boy"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/The_Street_Boy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/The_Torturer.html[0m (["The Torturer"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/The_Torturer.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPhill/Transformation.html[0m (["Transformation"])
+(17:44:47) [[33mWARN[0m] Ignored Phill/Transformation.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPlatypus/Classroom_of_Pain.html[0m (["Classroom of Pain"])
+(17:44:47) [[33mWARN[0m] Ignored Platypus/Classroom_of_Pain.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPlatypus/Longwood_Reform_School.html[0m (["Longwood Reform School"])
+(17:44:47) [[33mWARN[0m] Ignored Platypus/Longwood_Reform_School.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPlatypus/My_Stepmothers_Dungeon.html[0m (["My Stepmother\'s Dungeon"])
+(17:44:47) [[33mWARN[0m] Ignored Platypus/My_Stepmothers_Dungeon.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPlatypus/Pain_Factor.html[0m (["Pain Factor"])
+(17:44:47) [[33mWARN[0m] Ignored Platypus/Pain_Factor.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPlatypus/Pick_a_Card.html[0m (["Pick a Card"])
+(17:44:47) [[33mWARN[0m] Ignored Platypus/Pick_a_Card.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mPlatypus/Polygamist_Boys_Lot.html[0m (["Polygamist Boy\'s Lot"])
+(17:44:47) [[33mWARN[0m] Ignored Platypus/Polygamist_Boys_Lot.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Dantes_Descent_A.html[0m (["Danté\'s Descent (illustrated by Conradin)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Dantes_Descent_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSkrimshaw/A_Dream_for_Sam.html[0m (["A Dream for Sam/A Nightmare for Derita"])
+(17:44:47) [[33mWARN[0m] Ignored Skrimshaw/A_Dream_for_Sam.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSkrimshaw/Prodrigal_Son.html[0m (["Prodrigal Son"])
+(17:44:47) [[33mWARN[0m] Ignored Skrimshaw/Prodrigal_Son.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSkrimshaw/The_Scholarship_Boy_A.html[0m (["The Scholarship Boy"])
+(17:44:47) [[33mWARN[0m] Ignored Skrimshaw/The_Scholarship_Boy_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSkrimshaw/Sergeant_Gomez.html[0m (["Sergeant Gomez"])
+(17:44:47) [[33mWARN[0m] Ignored Skrimshaw/Sergeant_Gomez.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSpeedoboy711/Boy_Daredevils_in_Speedos.html[0m (["Boy Daredevils in Speedos"])
+(17:44:47) [[33mWARN[0m] Ignored Speedoboy711/Boy_Daredevils_in_Speedos.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSpeedoboy711/Daredevil_Speedo_Boys_star_in_Preteens_Live_On_Stage_A.html[0m (["Daredevil Speedo Boys star in \"Preteens Live On Stage\""])
+(17:44:47) [[33mWARN[0m] Ignored Speedoboy711/Daredevil_Speedo_Boys_star_in_Preteens_Live_On_Stage_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSpeedoboy711/Speedo_Boys_Daredevil_Challenge.html[0m (["Speedo Boy\'s Daredevil Challenge"])
+(17:44:47) [[33mWARN[0m] Ignored Speedoboy711/Speedo_Boys_Daredevil_Challenge.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mTinribs/Breaking_Boys.html[0m (["Breaking Boys"])
+(17:44:47) [[33mWARN[0m] Ignored Tinribs/Breaking_Boys.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mZelamir/Another_Country_A.html[0m (["Another Country"])
+(17:44:47) [[33mWARN[0m] Ignored Zelamir/Another_Country_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34millustrated/Young_Black_Master_A.html[0m (["Young Black Master (illustrated by Hungrid)"])
+(17:44:47) [[33mWARN[0m] Ignored illustrated/Young_Black_Master_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mZelamir/The_Village_I.html[0m (["Book I: Daniel"])
+(17:44:47) [[33mWARN[0m] Ignored Zelamir/The_Village_I.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mZelamir/The_Village_II_A.html[0m (["Book II: The Annual Pony Boy Race"])
+(17:44:47) [[33mWARN[0m] Ignored Zelamir/The_Village_II_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mZelamir/Tribute_Boys_I_A.html[0m (["Book I: The Hacienda de los Niños Tributos del Ezzaro"])
+(17:44:47) [[33mWARN[0m] Ignored Zelamir/Tribute_Boys_I_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mZelamir/Tribute_Boys_II_A.html[0m (["Book II: The Boy Hunting Party"])
+(17:44:47) [[33mWARN[0m] Ignored Zelamir/Tribute_Boys_II_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mZelamir/Tribute_Boys_III_A.html[0m (["Book III: The Summer Release Festival"])
+(17:44:47) [[33mWARN[0m] Ignored Zelamir/Tribute_Boys_III_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/I_want_to_be_a_really_dirty_little_fuck-boy.html[0m (["\"I want to be a really dirty little fuck-boy\""])
+(17:44:47) [[33mWARN[0m] Ignored Others/I_want_to_be_a_really_dirty_little_fuck-boy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Kyles_Slave_Boy.html[0m (["Kyle\'s Slave Boy"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Kyles_Slave_Boy.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Marks_Slave_Adventure.html[0m (["Mark\'s Slave Adventure"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Marks_Slave_Adventure.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/A_Slave_is_for_Life.html[0m (["A Slave is for Life"])
+(17:44:47) [[33mWARN[0m] Ignored Others/A_Slave_is_for_Life.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Terrys_Lessons.html[0m (["Terry\'s Lessons"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Terrys_Lessons.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Volunteer_Slave.html[0m (["Volunteer Slave"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Volunteer_Slave.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/The_Young_Visitor.html[0m (["The Young Visitor"])
+(17:44:47) [[33mWARN[0m] Ignored Others/The_Young_Visitor.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Arab_Slave.html[0m (["Arab Slave"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Arab_Slave.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Arn.html[0m (["Arn and Alf, ", "deliciae", " slave boys"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Arn.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Ax396.html[0m (["Ax396"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Ax396.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Chains.html[0m (["Chains"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Chains.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Cute.html[0m (["Cute"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Cute.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Daddys_Collateral.html[0m (["Daddy\'s Collateral"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Daddys_Collateral.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Derek_on_the_Island.html[0m (["Derek on the Island"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Derek_on_the_Island.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Hidden_at_the_Wrong_Place.html[0m (["Hidden at the Wrong Place"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Hidden_at_the_Wrong_Place.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/His_Masters_First_Acquisition.html[0m (["His Master\'s First Acquisition"])
+(17:44:47) [[33mWARN[0m] Ignored Others/His_Masters_First_Acquisition.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Marks_Trip.html[0m (["Mark\'s Trip"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Marks_Trip.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mBlackflag/A_Night_in_TJ.html[0m (["A Night in TJ"])
+(17:44:47) [[33mWARN[0m] Ignored Blackflag/A_Night_in_TJ.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/The_Slave_in_the_Shed.html[0m (["The Slave in the Shed"])
+(17:44:47) [[33mWARN[0m] Ignored Others/The_Slave_in_the_Shed.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Slaveboy_Island_A.html[0m (["Slaveboy Island"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Slaveboy_Island_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Slaveboys_of_Uztevia_A.html[0m (["Slaveboys of Uztevia"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Slaveboys_of_Uztevia_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/News_Release.html[0m (["News Release"])
+(17:44:47) [[33mWARN[0m] Ignored Others/News_Release.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Blake_The_Star.html[0m (["The Star"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Blake_The_Star.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/JustinsTail.html[0m (["Justin\'s Tail"])
+(17:44:47) [[33mWARN[0m] Ignored Others/JustinsTail.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/The_Kiss.html[0m (["The Kiss"])
+(17:44:47) [[33mWARN[0m] Ignored Others/The_Kiss.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Taken.html[0m (["Taken"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Taken.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Trevor_and_the_Human-Trials_Team.html[0m (["Trevor and the Human-Trials Team"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Trevor_and_the_Human-Trials_Team.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/PressureWave_The_Biology_Club_A.html[0m (["The Biology Club        "])
+(17:44:47) [[33mWARN[0m] Ignored Others/PressureWave_The_Biology_Club_A.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/PressureWave_Birthday_Present.html[0m (["Birthday Present"])
+(17:44:47) [[33mWARN[0m] Ignored Others/PressureWave_Birthday_Present.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Pinky.html[0m (["Pinky"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Pinky.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Craigs_List.html[0m (["Craig\'s List"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Craigs_List.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Cruising.html[0m (["Cruising"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Cruising.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Dannys_Very_Bad_Day.html[0m (["Danny\'s Very Bad Day"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Dannys_Very_Bad_Day.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Dads_New_Job.html[0m (["Dad\'s New Job"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Dads_New_Job.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mOthers/Jake.html[0m (["Jake"])
+(17:44:47) [[33mWARN[0m] Ignored Others/Jake.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mSade/The_120_Days_of_Sodom_I.html[0m (["The 120 Days of Sodom"])
+(17:44:47) [[33mWARN[0m] Ignored Sade/The_120_Days_of_Sodom_I.html because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=login&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Login"])
+(17:44:47) [[33mWARN[0m] Ignored ./ucp.php?mode=login&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=register&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Register"])
+(17:44:47) [[33mWARN[0m] Ignored ./ucp.php?mode=register&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=viewprofile&u=43928&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["hurtmehgay"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=viewprofile&u=43928&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./index.php?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["Board index"])
+(17:44:47) [[33mWARN[0m] Ignored ./index.php?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./ucp.php?mode=delete_cookies&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t\t\t", "Delete all board cookies", "\n\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./ucp.php?mode=delete_cookies&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m./memberlist.php?mode=team&sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t\t\t", "The team", "\n\t\t\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored ./memberlist.php?mode=team&sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m/app.php/contactadmin?sid=2f3ab4f23d7f89110649600fa8ce2d79[0m (["\n\t\t\t", "Contact us", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored /app.php/contactadmin?sid=2f3ab4f23d7f89110649600fa8ce2d79 because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/[0m (["phpBB"])
+(17:44:47) [[33mWARN[0m] Ignored https://www.phpbb.com/ because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.bradleyv.com/[0m (["Brad Veryard"])
+(17:44:47) [[33mWARN[0m] Ignored http://www.bradleyv.com/ because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttps://twitter.com/MannixMD[0m (["MannixMD"])
+(17:44:47) [[33mWARN[0m] Ignored https://twitter.com/MannixMD because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m#[0m (["\n\t\t\t", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored # because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34m#[0m (["\n\t\t\t", "\n\t\t"])
+(17:44:47) [[33mWARN[0m] Ignored # because [33mClearnet URLs are ignored[0m
+(17:44:47) [[34mINFO[0m] <a> does not contain href
+(17:44:47) [[34mINFO[0m] Link Found in <a>: [34mhttp://anjosp2t7yv47qvc.onion/[0m (["Anjos Proibidos ", "BR"])
+(17:44:47) [[34mINFO[0m] Spawning a Thread to handle http://anjosp2t7yv47qvc.onion/
+(17:45:36) [[34mINFO[0m] Spawning a Thread to handle [1;36mhttp://es2adizg32j3kob5.onion[0m
+(17:45:39) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:45:40) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:45:40) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.torproject.org/projects/torbrowser.html.en[0m (["Tor Browser 7.5a10"])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://www.torproject.org/projects/torbrowser.html.en[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34marchive.html[0m (["archive"])
+(17:45:40) [[33mWARN[0m] Ignored [2marchive.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://tails.boum.org/news/version_3.4/index.en.html[0m (["Tails 3.4", " is out "])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://tails.boum.org/news/version_3.4/index.en.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://tails.boum.org/[0m (["Download"])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://tails.boum.org/[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m (["Tor 0.3.2.9 (source)", " is released"])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.torproject.org/download/download.html.en[0m (["Download"])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://www.torproject.org/download/download.html.en[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m (["phpBB 3.2.2", " released!"])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/downloads/[0m (["Download"])
+(17:45:40) [[33mWARN[0m] Ignored [2mhttps://www.phpbb.com/downloads/[0m because [33mClearnet URLs are ignored[0m
+(17:45:40) [[34mINFO[0m] Link Found in <a>: [34mhttp://4fvfamdpoulu2nms.onion/lechat/[0m (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:45:40) [[34mINFO[0m] Spawning a Thread to handle [1;36mhttp://4fvfamdpoulu2nms.onion/lechat/[0m
+(17:45:45) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/. Parsing...
+(17:45:45) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen1.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen1.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen2.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen2.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen3.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen3.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen4.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen4.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen5.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen5.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen6.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen6.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen7.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen7.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./LC2.0-screen8.png[0m ([])
+(17:45:45) [[33mWARN[0m] Ignored [2m./LC2.0-screen8.png[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m../feedback/[0m (["please share!"])
+(17:45:45) [[33mWARN[0m] Ignored [2m../feedback/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./lechat-2.0.zip[0m (["lechat-2.0.zip"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./lechat-2.0.zip[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./italian-2.0.txt[0m (["Italian"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./italian-2.0.txt[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m../feedback/[0m (["please send me a copy for here"])
+(17:45:45) [[33mWARN[0m] Ignored [2m../feedback/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34minstallation.html[0m (["Installation Guide"])
+(17:45:45) [[33mWARN[0m] Ignored [2minstallation.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://notepad-plus-plus.org/[0m (["Notepad++"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://notepad-plus-plus.org/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./settings.html[0m (["helpful settings and content filters"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./settings.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m../feedback/[0m (["Please let me know!"])
+(17:45:45) [[33mWARN[0m] Ignored [2m../feedback/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./lechat-1.14_FSU-1.20.html[0m (["modified version from Friendly Script Updater"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./lechat-1.14_FSU-1.20.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttps://github.com/DanWin/le-chat-php[0m (["LE Chat-PHP"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttps://github.com/DanWin/le-chat-php[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./thoughts.html[0m (["random thoughts"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./thoughts.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./lechat-1.14.zip[0m (["lechat-1.14.zip"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./lechat-1.14.zip[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./german-1.14.txt[0m (["German"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./german-1.14.txt[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./spanish-1.14.txt[0m (["Spanish"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./spanish-1.14.txt[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./italian-1.14.txt[0m (["Italian"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./italian-1.14.txt[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m./lechat-1.13.zip[0m (["lechat-1.13.zip"])
+(17:45:45) [[33mWARN[0m] Ignored [2m./lechat-1.13.zip[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34m/[0m (["Home"])
+(17:45:45) [[33mWARN[0m] Ignored [2m/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip[0m (["Download"])
+(17:45:45) [[34mINFO[0m] Spawning a Thread to handle [1;36mhttp://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip[0m
+(17:45:45) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip. Parsing...
+(17:45:45) [[34mINFO[0m] http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip is not a text file. (stream did not contain valid UTF-8)
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34moa/v3update.txt[0m (["New Official v3 Addresses! (Important!)"])
+(17:45:45) [[33mWARN[0m] Ignored [2moa/v3update.txt[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.bbc.com/news/blogs-trending-42559977[0m (["!", " YouTube Comment Caused a Search Warrant and Arrest"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.bbc.com/news/blogs-trending-42559977[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html[0m (["!", " Pope Francis Accuses Sex Abuse Victims of Slander"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html[0m (["!", " Farmer Caught a Pedophile in Action While `Looking After his Patch´"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.bbc.com/news/world-europe-42694218[0m (["Denmark Facebook Sex Video: More Than 1,000 Young People Charged"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.bbc.com/news/world-europe-42694218[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php[0m (["Feds Investigate Child Porn and Arrest Two of Their Own"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttps://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html[0m (["Pope Meets With Abuse Survivors, Weeps With Them in Chile"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html[0m (["Welcome to \'Pedophile Island\': Isolated Prison off the Coast of Washington"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/[0m (["Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttps://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html[0m (["Football Coach Sentenced to Death for Kidnap, Rape and Murder"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html[0m (["German Police Arrests 8 Members of Suspected Pedo Gang"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html[0m (["YouTube Star, Shane Dawson, Justifies Pedophilia"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html[0m (["Protests Across Pakistan After 7yo Girl\'s Rape and Murder"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html[0m (["CP Producer Caught by His Ring While Raping a 2yo"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html[0m (["Disabled Sex Offender, 49, is SPARED Jail by Judge"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html[0m (["Indonesia Investigates Foreigners in Child Porn Ring"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttps://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html[0m (["Mom Sells Son to Abuse (German)"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttps://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html[0m (["\'Russia\'s worst paedophile in history\' Caught"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html[0m (["Alexandra Coach, 63, Accused of Abusing Boys"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html[0m (["Dad Reports his Son For Having a Naked Toddler on the Phone"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html[0m (["Man killed mom and kidnapped her two daughters"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html[0m (["Council worker, 56, confronted by pedo hunter on his doorstep"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html[0m (["Male 51 jailed for nine years for sexually abusing a 13yo boy"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html[0m (["Man Wearing Batman Pyjamas Confronted by Vigilantes"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttp://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/[0m (["Man Sentenced For Having Downloaded a ‘Pedophile Manual’"])
+(17:45:45) [[33mWARN[0m] Ignored [2mhttps://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/[0m because [33mClearnet URLs are ignored[0m
+(17:45:45) [[34mINFO[0m] Link Found in <a>: [34mhttp://3dboysn3o5d7dk3i.onion/[0m (["3D Boys"])
+(17:45:45) [[34mINFO[0m] Spawning a Thread to handle [1;36mhttp://3dboysn3o5d7dk3i.onion/[0m
+(17:46:08) [[34mINFO[0m] Spawning a Thread to handle [1;4;36mhttp://es2adizg32j3kob5.onion[0m

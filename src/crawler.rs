@@ -65,7 +65,7 @@ impl Crawler {
   pub fn crawl(&mut self, url: &str) {
     // Perform the URL sanity check before proceeding
     if let Err(reason) = self.parse_url(url.to_string()) {
-      warn!("Ignored {} because {}", url.blue(), reason.to_string().yellow());
+      warn!("Ignored {} because {}", url.dimmed(), reason.to_string().yellow());
       return
     }
 
@@ -76,7 +76,7 @@ impl Crawler {
     let _ = thread::spawn(move || {
       let mut c = c.lock().unwrap();
 
-      info!("Spawning a Thread to handle {}", url);
+      info!("Spawning a Thread to handle {}", url.cyan().bold().underline());
 
       // Fetch the resource via HTTP GET
       match c.client.get(&url).send() {
@@ -126,7 +126,7 @@ impl Crawler {
       let text: Vec<_> = link.text().collect();
 
       if let Some(url) = link.value().attr("href") {
-        info!("Link Found in <a>: {} ({:?})", &url, text);
+        info!("Link Found in <a>: {} ({:?})", &url.blue(), text);
 
         self.crawl(&url);
       } else {
