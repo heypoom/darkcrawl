@@ -11,19 +11,32 @@ use scraper::{Html, Selector};
 mod errors {
   error_chain! {
     errors {
-      AlreadyCrawled(url: String, is_success: bool) {
+      AlreadyCrawled {
         description("URL is already crawled")
-        display("URL '{}' is already crawled. Success: {}", url, is_success)
+        display("URL is already crawled")
       }
 
-      RelativeURL(url: String) {
+      // TODO: Store reason on why it had failed in the first place.
+      PreviouslyFailed {
+        description("Crawler had previously failed to retrieve this page")
+        display("Crawler had previously failed to retrieve this page")
+      }
+
+      // TODO: Implement Relative URL Resolver
+      IsRelative {
         description("Relative URL is unimplemented")
-        display("Relative URL is unimplemented. URL: {}", url)
+        display("Relative URL is unimplemented")
       }
 
-      NonHTTP(url: String) {
-        description("Non HTTP Protocol is unimplemented")
-        display("Relative URL is unimplemented. URL: {}", url)
+      NonHTTP {
+        description("Non-HTTP protocols are unsupported")
+        display("Non-HTTP protocols are unsupported")
+      }
+
+      // TODO: Add flags to allow scraping clearnet URLs
+      IsClearnet {
+        description("Clearnet URLs are ignored")
+        display("Clearnet URLs are ignored")
       }
     }
   }
@@ -54,28 +67,34 @@ impl Crawler {
   }
 
   fn parse_url(&self, url: String) -> Result<String, errors::ErrorKind> {
+    if !url.contains(".onion") {
+      return Err(IsClearnet);
+    }
+
     if self.success_urls.contains(&url) {
-      return Err(AlreadyCrawled(url, true));
+      return Err(AlreadyCrawled);
     }
 
     if self.failed_urls.contains(&url) {
-      return Err(AlreadyCrawled(url, false));
+      return Err(PreviouslyFailed);
     }
 
+    // TODO: Use a more precise check for relative urls
     if url.starts_with("..") {
-      return Err(RelativeURL(url));
+      return Err(IsRelative);
     }
 
+    // FIXME: Relative URLs does not start with http!
     if !url.starts_with("http") {
-      return Err(NonHTTP(url));
+      return Err(NonHTTP);
     }
 
     Ok(url)
   }
 
   fn crawl(&mut self, url: &str) {
-    if let Err(err) = self.parse_url(url.to_string()) {
-      println!("{}", err);
+    if let Err(reason) = self.parse_url(url.to_string()) {
+      println!("Ignored {} because {}", url, reason);
       return
     };
 
@@ -85,9 +104,11 @@ impl Crawler {
       Ok(ref mut res) => {
         let body = res.text().unwrap();
 
-        self.success_urls.push(url.to_string());
+        println!();
 
         if res.status().is_success() {
+          self.success_urls.push(url.to_string());
+
           println!("Successfully Crawled {}. Parsing Document...", url);
           self.parse(&body)
         }
