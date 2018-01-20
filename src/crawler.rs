@@ -17,9 +17,10 @@ pub struct Crawler {
 
 impl Crawler {
   pub fn new() -> Crawler {
-    let tor_proxy = Proxy::http("http://localhost:8123").unwrap();
-
     logger::setup();
+    info!("{}", "Initializing Dark Crawler...".bold());
+
+    let tor_proxy = Proxy::http("http://localhost:8123").unwrap();
 
     let client = Client::builder()
       .proxy(tor_proxy)
