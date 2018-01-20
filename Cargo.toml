@@ -8,4 +8,8 @@ select = "*"
 reqwest = "*"
 scraper = "*"
 error-chain = "*"
+fern = {version = "*", features = ["colored"]}
+colored = "*"
+chrono = "*"
+log = "0.4"
 

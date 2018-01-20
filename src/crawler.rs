@@ -6,6 +6,7 @@ use reqwest::header::ContentType;
 use scraper::{Html, Selector};
 
 use super::*;
+use colored::*;
 
 #[derive(Clone)]
 pub struct Crawler {
@@ -17,6 +18,8 @@ pub struct Crawler {
 impl Crawler {
   pub fn new() -> Crawler {
     let tor_proxy = Proxy::http("http://localhost:8123").unwrap();
+
+    logger::setup();
 
     let client = Client::builder()
       .proxy(tor_proxy)
@@ -62,7 +65,7 @@ impl Crawler {
   pub fn crawl(&mut self, url: &str) {
     // Perform the URL sanity check before proceeding
     if let Err(reason) = self.parse_url(url.to_string()) {
-      println!("Ignored {} because {}", url, reason);
+      warn!("Ignored {} because {}", url.blue(), reason.to_string().yellow());
       return
     }
 
@@ -73,19 +76,19 @@ impl Crawler {
     let _ = thread::spawn(move || {
       let mut c = c.lock().unwrap();
 
-      println!("Spawning a Thread to handle {}", url);
+      info!("Spawning a Thread to handle {}", url);
 
       // Fetch the resource via HTTP GET
       match c.client.get(&url).send() {
         Ok(res) => {
           if res.status().is_success() {
-            println!("Retrieved {}. Parsing...", url);
+            info!("Retrieved {}. Parsing...", url);
 
             c.parse(&url, res);
           }
         },
         Err(err) => {
-          println!("Network Error: {}", err);
+          info!("Network Error: {}", err);
           c.failed_urls.push(url.to_string());
         }
       }
@@ -105,7 +108,7 @@ impl Crawler {
         // If it is a HTML File, parse them.
         self.parse_html(&body);
       },
-      Err(err) => println!("{} is not a text file. ({})", url, err)
+      Err(err) => info!("{} is not a text file. ({})", url, err)
     }
   }
 
@@ -123,11 +126,11 @@ impl Crawler {
       let text: Vec<_> = link.text().collect();
 
       if let Some(url) = link.value().attr("href") {
-        println!("Link Found in <a>: {} ({:?})", &url, text);
+        info!("Link Found in <a>: {} ({:?})", &url, text);
 
         self.crawl(&url);
       } else {
-        println!("<a> does not contain href");
+        info!("<a> does not contain href");
       }
     }
   }

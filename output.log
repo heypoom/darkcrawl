@@ -1,0 +1,717 @@
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 30701 }
+[2018-01-20][17:26:30][darkcrawl::crawler][INFO] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464849352754 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] consuming notification queue
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 959844 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 11758 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464850412251 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 0 events, Duration { secs: 0, nanos: 164685 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 7849 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464850666684 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 157819 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 6697 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464851133910 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 292320 }
+[2018-01-20][17:26:30][hyper::client::dns][DEBUG] resolving host="localhost", port=8123
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 7894 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464851529574 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 0 events, Duration { secs: 0, nanos: 183859 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 1586768 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464853387782 }
+[2018-01-20][17:26:30][hyper::client::connect][DEBUG] connecting to [::1]:8123
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] adding a new I/O source
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] scheduling direction for: 0
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] blocking
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 790099 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 15009 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464854274756 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] notifying a task handle
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 238993 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 7960 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464854602891 }
+[2018-01-20][17:26:30][hyper::client::connect][DEBUG] connecting to 127.0.0.1:8123
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] adding a new I/O source
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] dropping I/O source: 0
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] scheduling direction for: 1
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] blocking
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 692438 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 14542 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464855390748 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] notifying a task handle
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 235989 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 15594 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464855727619 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 272047 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 7208 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464856107626 }
+[2018-01-20][17:26:30][hyper::proto::io][DEBUG] flushed 140 bytes
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] scheduling direction for: 1
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] blocking
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 1 events, Duration { secs: 0, nanos: 593160 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 12910 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464856819587 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 2 events, Duration { secs: 0, nanos: 171696 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop poll - Duration { secs: 0, nanos: 15947 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop time - Instant { t: 256464857088426 }
+[2018-01-20][17:26:30][tokio_core::reactor][DEBUG] loop process - 0 events, Duration { secs: 0, nanos: 199524 }
+[2018-01-20][17:27:05][darkcrawl::crawler][INFO] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:27:53) [darkcrawl::crawler] [INFO] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:28:18) [INFO darkcrawl::crawler] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:28:51) [INFO] [darkcrawl::crawler] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:28:55) [INFO] [darkcrawl::crawler] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:28:56) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:28:56) [WARN] [html5ever::tree_builder::actions] stop_parsing not implemented, full speed ahead!
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://www.torproject.org/projects/torbrowser.html.en because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: archive.html (["archive"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored archive.html because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://tails.boum.org/news/version_3.4/index.en.html because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://tails.boum.org/ because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://blog.torproject.org/tor-0329-released-we-have-new-stable-series because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://www.torproject.org/download/download.html.en because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:28:56) [INFO] [darkcrawl::crawler] Ignored https://www.phpbb.com/downloads/ because Clearnet URLs are ignored
+(17:28:56) [INFO] [darkcrawl::crawler] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:28:56) [INFO] [darkcrawl::crawler] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:29:03) [INFO] [darkcrawl::crawler] Retrieved http://4fvfamdpoulu2nms.onion/lechat/. Parsing...
+(17:29:03) [WARN] [html5ever::tree_builder::actions] stop_parsing not implemented, full speed ahead!
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen1.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen1.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen2.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen2.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen3.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen3.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen4.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen4.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen5.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen5.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen6.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen6.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen7.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen7.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./LC2.0-screen8.png ([])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./LC2.0-screen8.png because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ../feedback/ (["please share!"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./lechat-2.0.zip (["lechat-2.0.zip"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./lechat-2.0.zip because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./italian-2.0.txt (["Italian"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./italian-2.0.txt because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ../feedback/ (["please send me a copy for here"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: installation.html (["Installation Guide"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored installation.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://notepad-plus-plus.org/ (["Notepad++"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://notepad-plus-plus.org/ because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./settings.html (["helpful settings and content filters"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./settings.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ../feedback/ (["Please let me know!"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./lechat-1.14_FSU-1.20.html (["modified version from Friendly Script Updater"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./lechat-1.14_FSU-1.20.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: https://github.com/DanWin/le-chat-php (["LE Chat-PHP"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored https://github.com/DanWin/le-chat-php because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./thoughts.html (["random thoughts"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./thoughts.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./lechat-1.14.zip (["lechat-1.14.zip"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./lechat-1.14.zip because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./german-1.14.txt (["German"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./german-1.14.txt because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./spanish-1.14.txt (["Spanish"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./spanish-1.14.txt because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./italian-1.14.txt (["Italian"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./italian-1.14.txt because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: ./lechat-1.13.zip (["lechat-1.13.zip"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored ./lechat-1.13.zip because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: / (["Home"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored / because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip (["Download"])
+(17:29:03) [INFO] [darkcrawl::crawler] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip
+(17:29:03) [INFO] [darkcrawl::crawler] Retrieved http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip. Parsing...
+(17:29:03) [INFO] [darkcrawl::crawler] http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip is not a text file. (stream did not contain valid UTF-8)
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: oa/v3update.txt (["New Official v3 Addresses! (Important!)"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored oa/v3update.txt because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.bbc.com/news/blogs-trending-42559977 (["!", " YouTube Comment Caused a Search Warrant and Arrest"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.bbc.com/news/blogs-trending-42559977 because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html (["!", " Pope Francis Accuses Sex Abuse Victims of Slander"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html (["!", " Farmer Caught a Pedophile in Action While `Looking After his Patch´"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.bbc.com/news/world-europe-42694218 (["Denmark Facebook Sex Video: More Than 1,000 Young People Charged"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.bbc.com/news/world-europe-42694218 because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php (["Feds Investigate Child Porn and Arrest Two of Their Own"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html (["Pope Meets With Abuse Survivors, Weeps With Them in Chile"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html (["Welcome to \'Pedophile Island\': Isolated Prison off the Coast of Washington"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ (["Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html (["Football Coach Sentenced to Death for Kidnap, Rape and Murder"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html (["German Police Arrests 8 Members of Suspected Pedo Gang"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html (["YouTube Star, Shane Dawson, Justifies Pedophilia"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html (["Protests Across Pakistan After 7yo Girl\'s Rape and Murder"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html (["CP Producer Caught by His Ring While Raping a 2yo"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html (["Disabled Sex Offender, 49, is SPARED Jail by Judge"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html (["Indonesia Investigates Foreigners in Child Porn Ring"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html (["Mom Sells Son to Abuse (German)"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html (["\'Russia\'s worst paedophile in history\' Caught"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html (["Alexandra Coach, 63, Accused of Abusing Boys"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html (["Dad Reports his Son For Having a Naked Toddler on the Phone"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html (["Man killed mom and kidnapped her two daughters"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html (["Council worker, 56, confronted by pedo hunter on his doorstep"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html (["Male 51 jailed for nine years for sexually abusing a 13yo boy"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html (["Man Wearing Batman Pyjamas Confronted by Vigilantes"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ (["Man Sentenced For Having Downloaded a ‘Pedophile Manual’"])
+(17:29:03) [INFO] [darkcrawl::crawler] Ignored https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ because Clearnet URLs are ignored
+(17:29:03) [INFO] [darkcrawl::crawler] Link Found in <a>: http://3dboysn3o5d7dk3i.onion/ (["3D Boys"])
+(17:29:03) [INFO] [darkcrawl::crawler] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/
+(17:29:09) [INFO] [darkcrawl::crawler] Retrieved http://3dboysn3o5d7dk3i.onion/. Parsing...
+(17:29:09) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:29:09) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:29:09) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:29:09) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:29:09) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:29:09) [WARN] [html5ever::tree_builder::rules] FIXME: </script> not fully implemented
+(17:29:09) [WARN] [html5ever::tree_builder::actions] stop_parsing not implemented, full speed ahead!
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./index.php?sid=5ce3d25b4e281864998764d7d0fc5cae ([])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./index.php?sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: #start_here (["Skip to content"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored #start_here because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] <a> does not contain href
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: # (["\n\t\t\t\t", "Quick links", "\n\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored # because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./memberlist.php?mode=team&sid=5ce3d25b4e281864998764d7d0fc5cae (["\n\t\t\t\t\t\t\t\t\t", "The team", "\n\t\t\t\t\t\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./memberlist.php?mode=team&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: /app.php/notes?sid=5ce3d25b4e281864998764d7d0fc5cae (["\n\t\t\t", "Notes", "\n\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored /app.php/notes?sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: /app.php/help/faq?sid=5ce3d25b4e281864998764d7d0fc5cae (["\n\t\t\t\t", "FAQ", "\n\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored /app.php/help/faq?sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: /app.php/contactadmin?sid=5ce3d25b4e281864998764d7d0fc5cae (["\n\t\t\t", "Contact us", "\n\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored /app.php/contactadmin?sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./ucp.php?mode=login&sid=5ce3d25b4e281864998764d7d0fc5cae (["\n\t\t\t\t", "Login", "\n\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./ucp.php?mode=login&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./ucp.php?mode=register&sid=5ce3d25b4e281864998764d7d0fc5cae (["\n\t\t\t\t\t", "Register", "\n\t\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./ucp.php?mode=register&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./index.php?sid=5ce3d25b4e281864998764d7d0fc5cae (["Board index"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./index.php?sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] <a> does not contain href
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./viewforum.php?f=3&sid=5ce3d25b4e281864998764d7d0fc5cae (["Disclaimer, FAQ & Rules"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./viewforum.php?f=3&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./viewtopic.php?f=3&p=237840&sid=5ce3d25b4e281864998764d7d0fc5cae#p237840 (["Username & Password Recovery"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./viewtopic.php?f=3&p=237840&sid=5ce3d25b4e281864998764d7d0fc5cae#p237840 because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./memberlist.php?mode=viewprofile&u=2&sid=5ce3d25b4e281864998764d7d0fc5cae (["Ayas"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./memberlist.php?mode=viewprofile&u=2&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./viewtopic.php?f=3&p=237840&sid=5ce3d25b4e281864998764d7d0fc5cae#p237840 (["\n\t\t\t\t\t\t\t\t\t\t", "View the latest post", "\n\t\t\t\t\t\t\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./viewtopic.php?f=3&p=237840&sid=5ce3d25b4e281864998764d7d0fc5cae#p237840 because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./viewforum.php?f=170&sid=5ce3d25b4e281864998764d7d0fc5cae (["Sample Gallery"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./viewforum.php?f=170&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./viewtopic.php?f=170&p=258184&sid=5ce3d25b4e281864998764d7d0fc5cae#p258184 (["ChronArch\'s Samples"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./viewtopic.php?f=170&p=258184&sid=5ce3d25b4e281864998764d7d0fc5cae#p258184 because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./memberlist.php?mode=viewprofile&u=12820&sid=5ce3d25b4e281864998764d7d0fc5cae (["ChronArch"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./memberlist.php?mode=viewprofile&u=12820&sid=5ce3d25b4e281864998764d7d0fc5cae because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: ./viewtopic.php?f=170&p=258184&sid=5ce3d25b4e281864998764d7d0fc5cae#p258184 (["\n\t\t\t\t\t\t\t\t\t\t", "View the latest post", "\n\t\t\t\t\t\t\t\t\t"])
+(17:29:09) [INFO] [darkcrawl::crawler] Ignored ./viewtopic.php?f=170&p=258184&sid=5ce3d25b4e281864998764d7d0fc5cae#p258184 because Clearnet URLs are ignored
+(17:29:09) [INFO] [darkcrawl::crawler] Link Found in <a>: http://dembtxt2izv4tnpb.onion/ ([])
+(17:29:09) [INFO] [darkcrawl::crawler] Spawning a Thread to handle http://dembtxt2izv4tnpb.onion/
+(17:29:17) [INFO] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:29:20) [INFO] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:29:22) [WARN] FIXME: </script> not fully implemented
+(17:29:22) [WARN] stop_parsing not implemented, full speed ahead!
+(17:29:22) [INFO] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:29:22) [INFO] Ignored https://www.torproject.org/projects/torbrowser.html.en because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: archive.html (["archive"])
+(17:29:22) [INFO] Ignored archive.html because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:29:22) [INFO] Ignored https://tails.boum.org/news/version_3.4/index.en.html because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:29:22) [INFO] Ignored https://tails.boum.org/ because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:29:22) [INFO] Ignored https://blog.torproject.org/tor-0329-released-we-have-new-stable-series because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:29:22) [INFO] Ignored https://www.torproject.org/download/download.html.en because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:29:22) [INFO] Ignored https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:29:22) [INFO] Ignored https://www.phpbb.com/downloads/ because Clearnet URLs are ignored
+(17:29:22) [INFO] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:29:22) [INFO] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:37:13) [[37mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:37:16) [[37mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:37:17) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:37:17) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:37:17) [[37mINFO[0m] Ignored https://www.torproject.org/projects/torbrowser.html.en because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: archive.html (["archive"])
+(17:37:17) [[37mINFO[0m] Ignored archive.html because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:37:17) [[37mINFO[0m] Ignored https://tails.boum.org/news/version_3.4/index.en.html because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:37:17) [[37mINFO[0m] Ignored https://tails.boum.org/ because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:37:17) [[37mINFO[0m] Ignored https://blog.torproject.org/tor-0329-released-we-have-new-stable-series because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:37:17) [[37mINFO[0m] Ignored https://www.torproject.org/download/download.html.en because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:37:17) [[37mINFO[0m] Ignored https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:37:17) [[37mINFO[0m] Ignored https://www.phpbb.com/downloads/ because Clearnet URLs are ignored
+(17:37:17) [[37mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:37:17) [[37mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:37:51) [[37mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:38:12) [[37mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:38:56) [[34mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:39:00) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:39:01) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:39:01) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:39:01) [[34mINFO[0m] Ignored https://www.torproject.org/projects/torbrowser.html.en because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: archive.html (["archive"])
+(17:39:01) [[34mINFO[0m] Ignored archive.html because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:39:01) [[34mINFO[0m] Ignored https://tails.boum.org/news/version_3.4/index.en.html because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:39:01) [[34mINFO[0m] Ignored https://tails.boum.org/ because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:39:01) [[34mINFO[0m] Ignored https://blog.torproject.org/tor-0329-released-we-have-new-stable-series because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:39:01) [[34mINFO[0m] Ignored https://www.torproject.org/download/download.html.en because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:39:01) [[34mINFO[0m] Ignored https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:39:01) [[34mINFO[0m] Ignored https://www.phpbb.com/downloads/ because Clearnet URLs are ignored
+(17:39:01) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:39:01) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:39:05) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/. Parsing...
+(17:39:05) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen1.png ([])
+(17:39:05) [[34mINFO[0m] Ignored ./LC2.0-screen1.png because Clearnet URLs are ignored
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen2.png ([])
+(17:39:05) [[34mINFO[0m] Ignored ./LC2.0-screen2.png because Clearnet URLs are ignored
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen3.png ([])
+(17:39:05) [[34mINFO[0m] Ignored ./LC2.0-screen3.png because Clearnet URLs are ignored
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen4.png ([])
+(17:39:05) [[34mINFO[0m] Ignored ./LC2.0-screen4.png because Clearnet URLs are ignored
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen5.png ([])
+(17:39:05) [[34mINFO[0m] Ignored ./LC2.0-screen5.png because Clearnet URLs are ignored
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen6.png ([])
+(17:39:05) [[34mINFO[0m] Ignored ./LC2.0-screen6.png because Clearnet URLs are ignored
+(17:39:05) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen7.png ([])
+(17:39:06) [[34mINFO[0m] Ignored ./LC2.0-screen7.png because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen8.png ([])
+(17:39:06) [[34mINFO[0m] Ignored ./LC2.0-screen8.png because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["please share!"])
+(17:39:06) [[34mINFO[0m] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./lechat-2.0.zip (["lechat-2.0.zip"])
+(17:39:06) [[34mINFO[0m] Ignored ./lechat-2.0.zip because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./italian-2.0.txt (["Italian"])
+(17:39:06) [[34mINFO[0m] Ignored ./italian-2.0.txt because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["please send me a copy for here"])
+(17:39:06) [[34mINFO[0m] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: installation.html (["Installation Guide"])
+(17:39:06) [[34mINFO[0m] Ignored installation.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://notepad-plus-plus.org/ (["Notepad++"])
+(17:39:06) [[34mINFO[0m] Ignored http://notepad-plus-plus.org/ because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./settings.html (["helpful settings and content filters"])
+(17:39:06) [[34mINFO[0m] Ignored ./settings.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["Please let me know!"])
+(17:39:06) [[34mINFO[0m] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./lechat-1.14_FSU-1.20.html (["modified version from Friendly Script Updater"])
+(17:39:06) [[34mINFO[0m] Ignored ./lechat-1.14_FSU-1.20.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: https://github.com/DanWin/le-chat-php (["LE Chat-PHP"])
+(17:39:06) [[34mINFO[0m] Ignored https://github.com/DanWin/le-chat-php because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./thoughts.html (["random thoughts"])
+(17:39:06) [[34mINFO[0m] Ignored ./thoughts.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./lechat-1.14.zip (["lechat-1.14.zip"])
+(17:39:06) [[34mINFO[0m] Ignored ./lechat-1.14.zip because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./german-1.14.txt (["German"])
+(17:39:06) [[34mINFO[0m] Ignored ./german-1.14.txt because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./spanish-1.14.txt (["Spanish"])
+(17:39:06) [[34mINFO[0m] Ignored ./spanish-1.14.txt because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./italian-1.14.txt (["Italian"])
+(17:39:06) [[34mINFO[0m] Ignored ./italian-1.14.txt because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: ./lechat-1.13.zip (["lechat-1.13.zip"])
+(17:39:06) [[34mINFO[0m] Ignored ./lechat-1.13.zip because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: / (["Home"])
+(17:39:06) [[34mINFO[0m] Ignored / because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip (["Download"])
+(17:39:06) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip
+(17:39:06) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip. Parsing...
+(17:39:06) [[34mINFO[0m] http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip is not a text file. (stream did not contain valid UTF-8)
+(17:39:06) [[34mINFO[0m] Link Found in <a>: oa/v3update.txt (["New Official v3 Addresses! (Important!)"])
+(17:39:06) [[34mINFO[0m] Ignored oa/v3update.txt because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.bbc.com/news/blogs-trending-42559977 (["!", " YouTube Comment Caused a Search Warrant and Arrest"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.bbc.com/news/blogs-trending-42559977 because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html (["!", " Pope Francis Accuses Sex Abuse Victims of Slander"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html (["!", " Farmer Caught a Pedophile in Action While `Looking After his Patch´"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.bbc.com/news/world-europe-42694218 (["Denmark Facebook Sex Video: More Than 1,000 Young People Charged"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.bbc.com/news/world-europe-42694218 because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php (["Feds Investigate Child Porn and Arrest Two of Their Own"])
+(17:39:06) [[34mINFO[0m] Ignored https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html (["Pope Meets With Abuse Survivors, Weeps With Them in Chile"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html (["Welcome to \'Pedophile Island\': Isolated Prison off the Coast of Washington"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ (["Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far"])
+(17:39:06) [[34mINFO[0m] Ignored https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html (["Football Coach Sentenced to Death for Kidnap, Rape and Murder"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html (["German Police Arrests 8 Members of Suspected Pedo Gang"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html (["YouTube Star, Shane Dawson, Justifies Pedophilia"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html (["Protests Across Pakistan After 7yo Girl\'s Rape and Murder"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html (["CP Producer Caught by His Ring While Raping a 2yo"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html (["Disabled Sex Offender, 49, is SPARED Jail by Judge"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html (["Indonesia Investigates Foreigners in Child Porn Ring"])
+(17:39:06) [[34mINFO[0m] Ignored https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html (["Mom Sells Son to Abuse (German)"])
+(17:39:06) [[34mINFO[0m] Ignored https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html (["\'Russia\'s worst paedophile in history\' Caught"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html (["Alexandra Coach, 63, Accused of Abusing Boys"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html (["Dad Reports his Son For Having a Naked Toddler on the Phone"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html (["Man killed mom and kidnapped her two daughters"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html (["Council worker, 56, confronted by pedo hunter on his doorstep"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html (["Male 51 jailed for nine years for sexually abusing a 13yo boy"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html (["Man Wearing Batman Pyjamas Confronted by Vigilantes"])
+(17:39:06) [[34mINFO[0m] Ignored http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ (["Man Sentenced For Having Downloaded a ‘Pedophile Manual’"])
+(17:39:06) [[34mINFO[0m] Ignored https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ because Clearnet URLs are ignored
+(17:39:06) [[34mINFO[0m] Link Found in <a>: http://3dboysn3o5d7dk3i.onion/ (["3D Boys"])
+(17:39:06) [[34mINFO[0m] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/
+(17:39:55) [[34mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:39:59) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:40:00) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:40:00) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:40:00) [[33mWARN[0m] Ignored https://www.torproject.org/projects/torbrowser.html.en because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: archive.html (["archive"])
+(17:40:00) [[33mWARN[0m] Ignored archive.html because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:40:00) [[33mWARN[0m] Ignored https://tails.boum.org/news/version_3.4/index.en.html because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:40:00) [[33mWARN[0m] Ignored https://tails.boum.org/ because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:40:00) [[33mWARN[0m] Ignored https://blog.torproject.org/tor-0329-released-we-have-new-stable-series because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:40:00) [[33mWARN[0m] Ignored https://www.torproject.org/download/download.html.en because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:40:00) [[33mWARN[0m] Ignored https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:40:00) [[33mWARN[0m] Ignored https://www.phpbb.com/downloads/ because Clearnet URLs are ignored
+(17:40:00) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:40:00) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:40:07) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/. Parsing...
+(17:40:07) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen1.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen1.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen2.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen2.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen3.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen3.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen4.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen4.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen5.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen5.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen6.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen6.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen7.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen7.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen8.png ([])
+(17:40:07) [[33mWARN[0m] Ignored ./LC2.0-screen8.png because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["please share!"])
+(17:40:07) [[33mWARN[0m] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./lechat-2.0.zip (["lechat-2.0.zip"])
+(17:40:07) [[33mWARN[0m] Ignored ./lechat-2.0.zip because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./italian-2.0.txt (["Italian"])
+(17:40:07) [[33mWARN[0m] Ignored ./italian-2.0.txt because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["please send me a copy for here"])
+(17:40:07) [[33mWARN[0m] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: installation.html (["Installation Guide"])
+(17:40:07) [[33mWARN[0m] Ignored installation.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://notepad-plus-plus.org/ (["Notepad++"])
+(17:40:07) [[33mWARN[0m] Ignored http://notepad-plus-plus.org/ because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./settings.html (["helpful settings and content filters"])
+(17:40:07) [[33mWARN[0m] Ignored ./settings.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["Please let me know!"])
+(17:40:07) [[33mWARN[0m] Ignored ../feedback/ because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./lechat-1.14_FSU-1.20.html (["modified version from Friendly Script Updater"])
+(17:40:07) [[33mWARN[0m] Ignored ./lechat-1.14_FSU-1.20.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: https://github.com/DanWin/le-chat-php (["LE Chat-PHP"])
+(17:40:07) [[33mWARN[0m] Ignored https://github.com/DanWin/le-chat-php because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./thoughts.html (["random thoughts"])
+(17:40:07) [[33mWARN[0m] Ignored ./thoughts.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./lechat-1.14.zip (["lechat-1.14.zip"])
+(17:40:07) [[33mWARN[0m] Ignored ./lechat-1.14.zip because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./german-1.14.txt (["German"])
+(17:40:07) [[33mWARN[0m] Ignored ./german-1.14.txt because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./spanish-1.14.txt (["Spanish"])
+(17:40:07) [[33mWARN[0m] Ignored ./spanish-1.14.txt because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./italian-1.14.txt (["Italian"])
+(17:40:07) [[33mWARN[0m] Ignored ./italian-1.14.txt because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: ./lechat-1.13.zip (["lechat-1.13.zip"])
+(17:40:07) [[33mWARN[0m] Ignored ./lechat-1.13.zip because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: / (["Home"])
+(17:40:07) [[33mWARN[0m] Ignored / because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip (["Download"])
+(17:40:07) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip
+(17:40:07) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip. Parsing...
+(17:40:07) [[34mINFO[0m] http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip is not a text file. (stream did not contain valid UTF-8)
+(17:40:07) [[34mINFO[0m] Link Found in <a>: oa/v3update.txt (["New Official v3 Addresses! (Important!)"])
+(17:40:07) [[33mWARN[0m] Ignored oa/v3update.txt because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.bbc.com/news/blogs-trending-42559977 (["!", " YouTube Comment Caused a Search Warrant and Arrest"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.bbc.com/news/blogs-trending-42559977 because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html (["!", " Pope Francis Accuses Sex Abuse Victims of Slander"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html (["!", " Farmer Caught a Pedophile in Action While `Looking After his Patch´"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.bbc.com/news/world-europe-42694218 (["Denmark Facebook Sex Video: More Than 1,000 Young People Charged"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.bbc.com/news/world-europe-42694218 because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php (["Feds Investigate Child Porn and Arrest Two of Their Own"])
+(17:40:07) [[33mWARN[0m] Ignored https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html (["Pope Meets With Abuse Survivors, Weeps With Them in Chile"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html (["Welcome to \'Pedophile Island\': Isolated Prison off the Coast of Washington"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ (["Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far"])
+(17:40:07) [[33mWARN[0m] Ignored https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html (["Football Coach Sentenced to Death for Kidnap, Rape and Murder"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html (["German Police Arrests 8 Members of Suspected Pedo Gang"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html (["YouTube Star, Shane Dawson, Justifies Pedophilia"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html (["Protests Across Pakistan After 7yo Girl\'s Rape and Murder"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html (["CP Producer Caught by His Ring While Raping a 2yo"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html (["Disabled Sex Offender, 49, is SPARED Jail by Judge"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html (["Indonesia Investigates Foreigners in Child Porn Ring"])
+(17:40:07) [[33mWARN[0m] Ignored https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html (["Mom Sells Son to Abuse (German)"])
+(17:40:07) [[33mWARN[0m] Ignored https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html (["\'Russia\'s worst paedophile in history\' Caught"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html (["Alexandra Coach, 63, Accused of Abusing Boys"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html (["Dad Reports his Son For Having a Naked Toddler on the Phone"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html (["Man killed mom and kidnapped her two daughters"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html (["Council worker, 56, confronted by pedo hunter on his doorstep"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html (["Male 51 jailed for nine years for sexually abusing a 13yo boy"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html (["Man Wearing Batman Pyjamas Confronted by Vigilantes"])
+(17:40:07) [[33mWARN[0m] Ignored http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ (["Man Sentenced For Having Downloaded a ‘Pedophile Manual’"])
+(17:40:07) [[33mWARN[0m] Ignored https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ because Clearnet URLs are ignored
+(17:40:07) [[34mINFO[0m] Link Found in <a>: http://3dboysn3o5d7dk3i.onion/ (["3D Boys"])
+(17:40:07) [[34mINFO[0m] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/
+(17:41:11) [[34mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:41:16) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:41:16) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:41:17) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://www.torproject.org/projects/torbrowser.html.en[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: archive.html (["archive"])
+(17:41:17) [[33mWARN[0m] Ignored [34marchive.html[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://tails.boum.org/news/version_3.4/index.en.html[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://tails.boum.org/[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://www.torproject.org/download/download.html.en[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:41:17) [[33mWARN[0m] Ignored [34mhttps://www.phpbb.com/downloads/[0m because Clearnet URLs are ignored
+(17:41:17) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:41:17) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:42:16) [[34mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:42:19) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:42:19) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:42:19) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.torproject.org/projects/torbrowser.html.en[0m (["Tor Browser 7.5a10"])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://www.torproject.org/projects/torbrowser.html.en[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34marchive.html[0m (["archive"])
+(17:42:19) [[33mWARN[0m] Ignored [34marchive.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://tails.boum.org/news/version_3.4/index.en.html[0m (["Tails 3.4", " is out "])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://tails.boum.org/news/version_3.4/index.en.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://tails.boum.org/[0m (["Download"])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://tails.boum.org/[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m (["Tor 0.3.2.9 (source)", " is released"])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.torproject.org/download/download.html.en[0m (["Download"])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://www.torproject.org/download/download.html.en[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m (["phpBB 3.2.2", " released!"])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttps://www.phpbb.com/downloads/[0m (["Download"])
+(17:42:19) [[33mWARN[0m] Ignored [34mhttps://www.phpbb.com/downloads/[0m because [33mClearnet URLs are ignored[0m
+(17:42:19) [[34mINFO[0m] Link Found in <a>: [34mhttp://4fvfamdpoulu2nms.onion/lechat/[0m (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:42:19) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:42:29) [[34mINFO[0m] Spawning a Thread to handle http://es2adizg32j3kob5.onion
+(17:42:35) [[34mINFO[0m] Retrieved http://es2adizg32j3kob5.onion. Parsing...
+(17:42:35) [[33mWARN[0m] FIXME: </script> not fully implemented
+(17:42:36) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/projects/torbrowser.html.en (["Tor Browser 7.5a10"])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://www.torproject.org/projects/torbrowser.html.en[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: archive.html (["archive"])
+(17:42:36) [[33mWARN[0m] Ignored [34marchive.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/news/version_3.4/index.en.html (["Tails 3.4", " is out "])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://tails.boum.org/news/version_3.4/index.en.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://tails.boum.org/ (["Download"])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://tails.boum.org/[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://blog.torproject.org/tor-0329-released-we-have-new-stable-series (["Tor 0.3.2.9 (source)", " is released"])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://blog.torproject.org/tor-0329-released-we-have-new-stable-series[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://www.torproject.org/download/download.html.en (["Download"])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://www.torproject.org/download/download.html.en[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/community/viewtopic.php?f=14&t=2453381 (["phpBB 3.2.2", " released!"])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://www.phpbb.com/community/viewtopic.php?f=14&t=2453381[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: https://www.phpbb.com/downloads/ (["Download"])
+(17:42:36) [[33mWARN[0m] Ignored [34mhttps://www.phpbb.com/downloads/[0m because [33mClearnet URLs are ignored[0m
+(17:42:36) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/ (["LE CHAT (CGI)", " Chat-Script 2.0 Released"])
+(17:42:36) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/
+(17:42:42) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/. Parsing...
+(17:42:42) [[33mWARN[0m] stop_parsing not implemented, full speed ahead!
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen1.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen1.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen2.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen2.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen3.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen3.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen4.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen4.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen5.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen5.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen6.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen6.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen7.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen7.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./LC2.0-screen8.png ([])
+(17:42:42) [[33mWARN[0m] Ignored [34m./LC2.0-screen8.png[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["please share!"])
+(17:42:42) [[33mWARN[0m] Ignored [34m../feedback/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./lechat-2.0.zip (["lechat-2.0.zip"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./lechat-2.0.zip[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./italian-2.0.txt (["Italian"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./italian-2.0.txt[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["please send me a copy for here"])
+(17:42:42) [[33mWARN[0m] Ignored [34m../feedback/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: installation.html (["Installation Guide"])
+(17:42:42) [[33mWARN[0m] Ignored [34minstallation.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://notepad-plus-plus.org/ (["Notepad++"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://notepad-plus-plus.org/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./settings.html (["helpful settings and content filters"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./settings.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ../feedback/ (["Please let me know!"])
+(17:42:42) [[33mWARN[0m] Ignored [34m../feedback/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./lechat-1.14_FSU-1.20.html (["modified version from Friendly Script Updater"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./lechat-1.14_FSU-1.20.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: https://github.com/DanWin/le-chat-php (["LE Chat-PHP"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttps://github.com/DanWin/le-chat-php[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./thoughts.html (["random thoughts"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./thoughts.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./lechat-1.14.zip (["lechat-1.14.zip"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./lechat-1.14.zip[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./german-1.14.txt (["German"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./german-1.14.txt[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./spanish-1.14.txt (["Spanish"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./spanish-1.14.txt[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./italian-1.14.txt (["Italian"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./italian-1.14.txt[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: ./lechat-1.13.zip (["lechat-1.13.zip"])
+(17:42:42) [[33mWARN[0m] Ignored [34m./lechat-1.13.zip[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: / (["Home"])
+(17:42:42) [[33mWARN[0m] Ignored [34m/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip (["Download"])
+(17:42:42) [[34mINFO[0m] Spawning a Thread to handle http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip
+(17:42:42) [[34mINFO[0m] Retrieved http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip. Parsing...
+(17:42:42) [[34mINFO[0m] http://4fvfamdpoulu2nms.onion/lechat/lechat-2.0.zip is not a text file. (stream did not contain valid UTF-8)
+(17:42:42) [[34mINFO[0m] Link Found in <a>: oa/v3update.txt (["New Official v3 Addresses! (Important!)"])
+(17:42:42) [[33mWARN[0m] Ignored [34moa/v3update.txt[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.bbc.com/news/blogs-trending-42559977 (["!", " YouTube Comment Caused a Search Warrant and Arrest"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.bbc.com/news/blogs-trending-42559977[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html (["!", " Pope Francis Accuses Sex Abuse Victims of Slander"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/wires/pa/article-5286903/Pope-Francis-accuses-sex-abuse-victims-slander.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html (["!", " Farmer Caught a Pedophile in Action While `Looking After his Patch´"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/wires/pa/article-5283907/Farmer-helped-police-catch-paedophile-just-looking-patch.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.bbc.com/news/world-europe-42694218 (["Denmark Facebook Sex Video: More Than 1,000 Young People Charged"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.bbc.com/news/world-europe-42694218[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: https://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php (["Feds Investigate Child Porn and Arrest Two of Their Own"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttps://www.chron.com/news/local/article/Feds-investigate-child-porn-and-arrest-two-of-12495025.php[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html (["Pope Meets With Abuse Survivors, Weeps With Them in Chile"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/wires/ap/article-5273467/Pope-Francis-pressure-confront-sex-abuse-Chile.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html (["Welcome to \'Pedophile Island\': Isolated Prison off the Coast of Washington"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5268525/Washington-state-sends-violent-sex-offenders-island.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: https://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/ (["Victim’s Family Claims Darknet Child Abuse Investigation Went Too Far"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttps://www.deepdotweb.com/2018/01/16/victims-family-claims-darknet-child-abuse-investigation-went-far/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html (["Football Coach Sentenced to Death for Kidnap, Rape and Murder"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5261541/Man-sentenced-death-killing-10-year-old-Missouri-girl.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html (["German Police Arrests 8 Members of Suspected Pedo Gang"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/wires/ap/article-5259953/German-police-arrest-8-members-suspected-pedophile-gang.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html (["YouTube Star, Shane Dawson, Justifies Pedophilia"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/femail/article-5259343/Shane-Dawson-caught-audio-justifying-paedophilia.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html (["Protests Across Pakistan After 7yo Girl\'s Rape and Murder"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/wires/reuters/article-5259399/Protests-held-Pakistan-7-year-old-girls-rape-murder.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html (["CP Producer Caught by His Ring While Raping a 2yo"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5258389/Paedophile-snared.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html (["Disabled Sex Offender, 49, is SPARED Jail by Judge"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5253513/Disabled-sex-offender-49-SPARED-jail-judge.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: https://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html (["Indonesia Investigates Foreigners in Child Porn Ring"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttps://www.telesurtv.net/english/news/Indonesia-Investigates-Foreigners-in-Child-Porn-Ring-20180109-0013.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: https://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html (["Mom Sells Son to Abuse (German)"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttps://www.welt.de/vermischtes/article172403787/Freiburg-Mutter-soll-Tausende-Euro-fuer-Vergewaltigung-von-Sohn-kassiert-haben.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html (["\'Russia\'s worst paedophile in history\' Caught"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5245929/Russian-foster-father-carried-900-rapes-assaults.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html (["Alexandra Coach, 63, Accused of Abusing Boys"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5250317/Trial-ex-Crewe-Alexandra-coach-Barry-Bennell-63.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html (["Dad Reports his Son For Having a Naked Toddler on the Phone"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5250667/Father-reports-son-finding-child-porn-phone.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html (["Man killed mom and kidnapped her two daughters"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5241101/Man-kidnapped-2-daughters-acted-like-pedophile-say-dad.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html (["Council worker, 56, confronted by pedo hunter on his doorstep"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5243927/Council-worker-56-snared-paedophile-hunter.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html (["Male 51 jailed for nine years for sexually abusing a 13yo boy"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5242151/Paedophile-jailed-nine-years-abusing-boy-13.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html (["Man Wearing Batman Pyjamas Confronted by Vigilantes"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttp://www.dailymail.co.uk/news/article-5239745/Newcastle-Batman-pyjamas-paedophile-jailed-10-months.html[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: https://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/ (["Man Sentenced For Having Downloaded a ‘Pedophile Manual’"])
+(17:42:42) [[33mWARN[0m] Ignored [34mhttps://www.deepdotweb.com/2018/01/06/man-downloaded-pedophile-manual-darknet/[0m because [33mClearnet URLs are ignored[0m
+(17:42:42) [[34mINFO[0m] Link Found in <a>: http://3dboysn3o5d7dk3i.onion/ (["3D Boys"])
+(17:42:42) [[34mINFO[0m] Spawning a Thread to handle http://3dboysn3o5d7dk3i.onion/
