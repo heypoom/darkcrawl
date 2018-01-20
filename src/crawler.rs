@@ -83,6 +83,7 @@ impl Crawler {
     let _ = thread::spawn(move || {
       let mut c = c.lock().unwrap();
 
+      c.stats();
       info!("Fetching Resource at {}", url.cyan().bold().underline());
 
       // Fetch the resource via HTTP GET
@@ -95,11 +96,20 @@ impl Crawler {
           }
         },
         Err(err) => {
-          info!("Network Error: {}", err);
+          error!("Network Error: {}", err);
           c.failed_urls.push(url.to_string());
         }
       }
     }).join();
+  }
+
+  fn stats(&self) {
+    let oks = self.success_urls.len().to_string().bold();
+    let fails = self.failed_urls.len().to_string().bold();
+
+    let ok_text = format!("{} SUCCESSES", oks).green();
+    let fail_text = format!("{} FAILURES", fails).red();
+    info!("--- {}, {} --- ", ok_text, fail_text);
   }
 
   // TODO: Check the Content-Type Header Before Parsing!
@@ -115,7 +125,10 @@ impl Crawler {
         // If it is a HTML File, parse them.
         self.parse_html(&body);
       },
-      Err(err) => info!("{} is not a text file. ({})", url, err)
+      Err(err) => {
+        error!("{} is not a text file. ({})", url.red(), err);
+        self.failed_urls.push(url.to_string());
+      }
     }
   }
 
@@ -133,11 +146,11 @@ impl Crawler {
       let text: Vec<_> = link.text().collect();
 
       if let Some(url) = link.value().attr("href") {
-        info!("Link Found in <a>: {} ({:?})", &url.blue(), text);
+        debug!("Link Found in <a>: {} ({:?})", &url.blue(), text);
 
         self.crawl(&url);
       } else {
-        warn!("<a> does not contain href. Skipping...");
+        debug!("<a> does not contain href. Skipping...");
       }
     }
   }
