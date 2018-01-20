@@ -121,10 +121,14 @@ impl Crawler {
 
     for link in document.select(&links) {
       let text: Vec<_> = link.text().collect();
-      let url = link.value().attr("href").unwrap();
-      println!("Link Found: {} ({:?})", &url, text);
 
-      self.crawl(&url);
+      if let Some(url) = link.value().attr("href") {
+        println!("Link Found in <a>: {} ({:?})", &url, text);
+
+        self.crawl(&url);
+      } else {
+        println!("<a> does not contain href");
+      }
     }
   }
 }
