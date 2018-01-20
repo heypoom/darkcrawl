@@ -56,13 +56,15 @@ impl Crawler {
   }
 
   pub fn crawl(&mut self, url: &str) {
+    // Perform URL check before proceeding
     if let Err(reason) = self.parse_url(url.to_string()) {
       println!("Ignored {} because {}", url, reason);
       return
-    };
+    }
 
     println!("Crawling: {}", url);
 
+    // Fetch the resource via HTTP GET
     match self.client.get(url).send() {
       Ok(res) => {
         if res.status().is_success() {
@@ -85,12 +87,22 @@ impl Crawler {
         // Append the URL to the success list
         self.success_urls.push(url.to_string());
 
-        self.parse_html(&body)
+        // Write the result to file
+        self.write_file(url, &body);
+
+        // If it is a HTML File, parse them.
+        self.parse_html(&body);
       },
-      Err(err) => println!("{} is not a text file. Ignoring...", url)
+      Err(err) => println!("{} is not a text file. ({})", url, err)
     }
   }
 
+  // TODO: Write file to disk.
+  fn write_file(&self, url: &str, content: &str) {
+
+  }
+
+  // Retrieve the URLs and crawl them
   fn parse_html(&mut self, body: &str) {
     let document = Html::parse_document(&body);
     let links = Selector::parse("a").unwrap();
