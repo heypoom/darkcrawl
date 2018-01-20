@@ -4,6 +4,7 @@ extern crate scraper;
 extern crate chrono;
 extern crate fern;
 extern crate colored;
+extern crate crossbeam;
 
 #[macro_use]
 extern crate error_chain;

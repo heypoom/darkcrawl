@@ -1,6 +1,3 @@
-use std::thread;
-use std::sync::{Arc, Mutex, mpsc};
-
 use reqwest::{Client, Proxy, Response};
 use reqwest::header::ContentType;
 use scraper::{Html, Selector};
@@ -8,11 +5,40 @@ use scraper::{Html, Selector};
 use super::*;
 use colored::*;
 
+#[derive(Debug, Clone)]
+pub struct SiteList {
+  pub success_urls: Vec<String>,
+  pub failed_urls: Vec<String>,
+  pub ignored_urls: Vec<String>
+}
+
+impl SiteList {
+  fn new() -> SiteList {
+    SiteList {
+      success_urls: vec![],
+      failed_urls: vec![],
+      ignored_urls: vec![]
+    }
+  }
+
+  fn success(&mut self, url: &str) {
+    info!("Added {} to Success Entry", url.green());
+    self.success_urls.push(url.to_string());
+  }
+
+  fn fail(&mut self, url: &str) {
+    self.failed_urls.push(url.to_string());
+  }
+
+  fn ignore(&mut self, url: &str) {
+    self.ignored_urls.push(url.to_string());
+  }
+}
+
 #[derive(Clone)]
 pub struct Crawler {
   client: Client,
-  success_urls: Vec<String>,
-  failed_urls: Vec<String>
+  list: SiteList
 }
 
 impl Crawler {
@@ -27,26 +53,24 @@ impl Crawler {
       .build()
       .unwrap();
 
+    let list = SiteList::new();
+
     Crawler {
       client,
-      success_urls: vec![],
-      failed_urls: vec![]
+      list
     }
   }
 
   fn parse_url(&self, url: String) -> Result<String, errors::ErrorKind> {
-    let successes = self.success_urls.clone();
-    let fails = self.failed_urls.clone();
-
     if !url.contains(".onion") {
       return Err(IsClearnet);
     }
 
-    if successes.contains(&url) {
+    if self.list.success_urls.contains(&url) {
       return Err(AlreadyCrawled);
     }
 
-    if fails.contains(&url) {
+    if self.list.failed_urls.contains(&url) {
       return Err(PreviouslyFailed);
     }
 
@@ -74,43 +98,49 @@ impl Crawler {
         }
       }
 
+      self.list.ignore(url);
+
       return
     }
 
-    let c = Arc::new(Mutex::new(self.clone()));
     let url = String::from(url);
 
     // Spawn a new thread to handle
-    let _ = thread::spawn(move || {
-      let mut c = c.lock().unwrap();
+    crossbeam::scope(|scope| {
+      scope.spawn(|| {
+        self.stats();
+        info!("Fetching Resource at {}", url.cyan().bold().underline());
 
-      c.stats();
-      info!("Fetching Resource at {}", url.cyan().bold().underline());
+        // Fetch the resource via HTTP GET
+        match self.client.get(&url).send() {
+          Ok(res) => {
+            if res.status().is_success() {
+              info!("Retrieved {}. Parsing...", url);
 
-      // Fetch the resource via HTTP GET
-      match c.client.get(&url).send() {
-        Ok(res) => {
-          if res.status().is_success() {
-            info!("Retrieved {}. Parsing...", url);
-
-            c.parse(&url, res);
+              self.parse(&url, res);
+            }
+          },
+          Err(err) => {
+            error!("Network Error: {}", err.to_string().red());
+            self.list.fail(&url);
           }
-        },
-        Err(err) => {
-          error!("Network Error: {}", err);
-          c.failed_urls.push(url.to_string());
         }
-      }
-    }).join();
+      });
+    });
   }
 
   fn stats(&self) {
-    let oks = self.success_urls.len().to_string().bold();
-    let fails = self.failed_urls.len().to_string().bold();
+    let list = self.list.clone();
+
+    let oks = list.success_urls.len().to_string().bold();
+    let fails = list.failed_urls.len().to_string().bold();
+    let ignores = list.ignored_urls.len().to_string().bold();
 
     let ok_text = format!("{} SUCCESSES", oks).green();
     let fail_text = format!("{} FAILURES", fails).red();
-    info!("--- {}, {} --- ", ok_text, fail_text);
+    let ignore_text = format!("{} IGNORED", ignores).bright_black();
+
+    info!("--- {}, {}, {} --- ", ok_text, fail_text, ignore_text);
   }
 
   // TODO: Check the Content-Type Header Before Parsing!
@@ -118,7 +148,7 @@ impl Crawler {
     match res.text() {
       Ok(body) => {
         // Append the URL to the success list
-        self.success_urls.push(url.to_string());
+        self.list.success(url);
 
         // Write the result to file
         self.write_file(url, &body);
@@ -128,7 +158,7 @@ impl Crawler {
       },
       Err(err) => {
         error!("{} is not a text file. ({})", url.red(), err);
-        self.failed_urls.push(url.to_string());
+        self.list.fail(url);
       }
     }
   }

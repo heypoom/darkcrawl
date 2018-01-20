@@ -12,4 +12,5 @@ fern = {version = "*", features = ["colored"]}
 colored = "*"
 chrono = "*"
 log = "0.4"
+crossbeam = "0.3.0"
 
