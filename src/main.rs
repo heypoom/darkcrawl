@@ -102,16 +102,19 @@ impl Crawler {
 
     match self.client.get(url).send() {
       Ok(ref mut res) => {
-        let body = res.text().unwrap();
+        match res.text() {
+          Ok(body) => {
+            if res.status().is_success() {
+              self.success_urls.push(url.to_string());
 
-        println!();
-
-        if res.status().is_success() {
-          self.success_urls.push(url.to_string());
-
-          println!("Successfully Crawled {}. Parsing Document...", url);
-          self.parse(&body)
-        }
+              println!("Successfully Crawled {}. Parsing Document...", url);
+              self.parse(&body)
+            }
+          },
+          Err(err) => {
+            println!("Failed to parse document: {}", err);
+          }
+        };
       },
       Err(err) => {
         println!("Network Error: {}", err);
